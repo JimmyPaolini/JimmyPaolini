@@ -1,16 +1,26 @@
-### Hi there 👋
+# Jimmy Paolini
 
-<!--
-**JimmyPaolini/JimmyPaolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <img alt="me" width="100" src="assets/me.jpg"> -->
 
-Here are some ideas to get you started:
+Friend, Explorer, Musician, Engineer, Latinist, Tea Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Creator of <a href="https://www.lexicolatin.com">Lexico <img width="32" alt="lexico" src="assets/icons/lexico.png"></a>
+
+### Education <a href="https://www.upenn.edu"><img width="32" alt="upenn" src="assets/icons/upenn.png"></a> <a href="https://www.penncharter.com"><img width="32" alt="pc" src="assets/icons/pc.png"></a>
+
+### Languages <a href="https://www.typescriptlang.org"><img width="32" alt="typescript" src="assets/icons/typescript.png"></a> <a href="https://www.javascript.com"><img width="32" alt="javascript" src="assets/icons/javascript.png"></a> <a href="https://nodejs.org"><img width="32" alt="nodejs" src="assets/icons/nodejs.png"></a> <a href="https://www.python.org"><img width="32" alt="python" src="assets/icons/python.png"></a> <a href="https://www.typescriptlang.org"><img width="32" alt="java" src="assets/icons/java.png"></a> <a href="https://www.w3schools.com/css/default.asp"><img width="32" alt="css" src="assets/icons/css.png"></a> <a href="https://www.w3schools.com/html/default.asp"><img width="32" alt="html" src="assets/icons/html.png"></a> <a href="https://www.typescriptlang.org"><img width="32" alt="c" src="assets/icons/c.png"></a> <a href="https://ocaml.org"><img width="32" alt="ocaml" src="assets/icons/ocaml.png"></a>
+
+### Databases <a href="https://www.postgresql.org"><img width="32" alt="postgres" src="assets/icons/postgres.png"></a> <a href="https://www.mysql.com"><img width="32" alt="mysql" src="assets/icons/mysql.png"></a>
+
+### Libraries <a href="https://expressjs.com"><img width="32" alt="expressjs" src="assets/icons/expressjs.png"></a> <a href="https://typeorm.io"><img width="32" alt="typeorm" src="assets/icons/typeorm.png"></a> <a href="https://graphql.org"><img width="32" alt="graphql" src="assets/icons/graphql.png"></a> <a href="https://www.apollographql.com"><img width="32" alt="apollo" src="assets/icons/apollo.png"></a> <a href="https://typegraphql.com"><img width="32" alt="type-graphql" src="assets/icons/type-graphql.png"></a> <a href="https://reactjs.org"><img width="32" alt="react" src="assets/icons/react.png"></a> <a href="https://nextjs.org"><img width="32" alt="nextjs" src="assets/icons/nextjs.png"></a> <a href="https://material-ui.com"><img width="32" alt="materialui" src="assets/icons/materialui.png"></a> <a href="https://storybook.js.org"><img width="32" alt="storybook" src="assets/icons/storybook.png"></a> <a href="https://react-query.tanstack.com"><img width="32" alt="react-query" src="assets/icons/react-query.png"></a> <a href="https://formik.org"><img width="32" alt="formik" src="assets/icons/formik.png"></a> <a href="https://jwt.io"><img width="32" alt="jwt" src="assets/icons/jwt.png"></a>
+
+### Infrastructure <a href="https://aws.amazon.com"><img width="32" alt="aws" src="assets/icons/aws.png"></a> <a href="https://www.linode.com"><img width="32" alt="linode" src="assets/icons/linode.png"></a> <a href="https://kubernetes.io"><img width="32" alt="kubernetes" src="assets/icons/kubernetes.png"></a> <a href="https://www.docker.com"><img width="32" alt="docker" src="assets/icons/docker.png"></a> <a href="https://helm.sh"><img width="32" alt="helm" src="assets/icons/helm.png"></a> <a href="https://github.com/features/actions"><img width="32" alt="github-actions" src="assets/icons/github-actions.png"></a> <a href="https://k8slens.dev"><img width="32" alt="lens" src="assets/icons/lens.png"></a> <a href="https://www.nginx.com"><img width="32" alt="nginx" src="assets/icons/nginx.png"></a> <a href="https://www.elastic.co"><img width="32" alt="elk" src="assets/icons/elk.png"></a> <a href="https://fluentbit.io"><img width="32" alt="fluentbit" src="assets/icons/fluentbit.png"></a> <a href="https://prometheus.io"><img width="32" alt="prometheus" src="assets/icons/prometheus.png"></a> <a href="https://grafana.com"><img width="32" alt="grafana" src="assets/icons/grafana.png"></a> <a href="https://bitnami.com/stacks/helm"><img width="32" alt="bitnami" src="assets/icons/bitnami.png"></a> <a href="https://www.serverless.com"><img width="32" alt="serverless" src="assets/icons/serverless.png"></a>
+
+### Services <a href="https://github.com/JimmyPaolini/Lexico"><img width="32" alt="github" src="assets/icons/github.png"></a> <a href="https://www.cloudflare.com"><img width="32" alt="cloudflare" src="assets/icons/cloudflare.png"></a> <a href="https://sendgrid.com"><img width="32" alt="sendgrid" src="assets/icons/sendgrid.png"></a> <a href="https://lexico-group.slack.com/archives/C01SN2QN2BF"><img width="32" alt="slack" src="assets/icons/slack.png"></a> <a href="https://stackoverflow.com/questions/201323/how-to-validate-an-email-address-using-a-regular-expression"><img width="32" alt="stackoverflow" src="assets/icons/stackoverflow.png"></a>
+
+### Tools <a href="https://code.visualstudio.com"><img width="32" alt="vscode" src="assets/icons/vscode.png"></a> <a href="https://www.figma.com"><img width="32" alt="figma" src="assets/icons/figma.png"></a> <a href="https://git-scm.com"><img width="32" alt="git" src="assets/icons/git.png"></a> <a href="https://www.postman.com"><img width="32" alt="postman" src="assets/icons/postman.png"></a> <a href="https://www.mysql.com/products/workbench"><img width="32" alt="mysql-workbench" src="assets/icons/mysql-workbench.png"></a> <a href="https://eslint.org"><img width="32" alt="eslint" src="assets/icons/eslint.png"></a> <a href="https://prettier.io"><img width="32" alt="prettier" src="assets/icons/prettier.png"></a> <a href="https://jamstack.org"><img width="32" alt="jamstack" src="assets/icons/jamstack.png"></a> <a href="https://www.jetbrains.com/idea"><img width="32" alt="intellij" src="assets/icons/intellij.png"></a> <a href="https://www.finalemusic.com"><img width="32" alt="finale" src="assets/icons/finale.png"></a>
+
+### Learning Next <a href="https://www.cypress.io/how-it-works"><img width="32" alt="cypress" src="assets/icons/cypress.png"></a> <a href="https://jestjs.io"><img width="32" alt="jest" src="assets/icons/jest.png"></a> <a href="https://golang.org"><img width="32" alt="golang" src="assets/icons/golang.png"></a> <a href="https://www.linux.org"><img width="32" alt="linux" src="assets/icons/linux.png"></a> <a href="https://www.sqlalchemy.org"><img width="32" alt="sqlalchemy" src="assets/icons/sqlalchemy.png"></a> <a href="https://www.mongodb.com"><img width="32" alt="mongodb" src="assets/icons/mongodb.png"></a> <a href="https://stripe.com"><img width="32" alt="stripe" src="assets/icons/stripe.png"></a>
+
+### Learning Later <a href="https://cloud.google.com"><img width="32" alt="gcp" src="assets/icons/gcp.png"></a> <a href="https://azure.microsoft.com/en-us"><img width="32" alt="azure" src="assets/icons/azure.png"></a> <a href="https://www.raspberrypi.org"><img width="32" alt="raspberrypi" src="assets/icons/raspberrypi.png"></a> <a href="https://www.electronjs.org"><img width="32" alt="electron" src="assets/icons/electron.png"></a> <a href="https://www.shopify.com"><img width="32" alt="shopify" src="assets/icons/shopify.png"></a>
+
