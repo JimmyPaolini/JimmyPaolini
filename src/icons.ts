@@ -8,10 +8,22 @@ export const education = [
   { name: "pc", url: "https://www.penncharter.com" },
 ] as Icon[]
 
+export const socials = [
+  { name: "linkedin", url: "https://www.linkedin.com/in/jimmypaolini" },
+  { name: "instagram", url: "https://www.instagram.com/iamespao" },
+  {
+    name: "spotify",
+    url: "https://open.spotify.com/user/1294993453?si=b72b13c316ac42ed",
+  },
+] as Icon[]
+
+export const projects = [
+  { name: "lexico", url: "https://www.lexicolatin.com" },
+] as Icon[]
+
 export const languages = [
   { name: "typescript", url: "https://www.typescriptlang.org" },
   { name: "javascript", url: "https://www.javascript.com" },
-  { name: "nodejs", url: "https://nodejs.org" },
   { name: "python", url: "https://www.python.org" },
   { name: "java", url: "https://www.typescriptlang.org" },
   { name: "css", url: "https://www.w3schools.com/css/default.asp" },
@@ -25,37 +37,47 @@ export const databases = [
   { name: "mysql", url: "https://www.mysql.com" },
 ]
 
-export const libraries = [
+export const backend = [
+  { name: "nodejs", url: "https://nodejs.org" },
   { name: "expressjs", url: "https://expressjs.com" },
   { name: "typeorm", url: "https://typeorm.io" },
   { name: "graphql", url: "https://graphql.org" },
   { name: "apollo", url: "https://www.apollographql.com" },
   { name: "type-graphql", url: "https://typegraphql.com" },
+  { name: "oauth", url: "https://oauth.net" },
+] as Icon[]
+
+export const frontend = [
   { name: "react", url: "https://reactjs.org" },
   { name: "nextjs", url: "https://nextjs.org" },
   { name: "materialui", url: "https://material-ui.com" },
-  { name: "storybook", url: "https://storybook.js.org" },
   { name: "react-query", url: "https://react-query.tanstack.com" },
   { name: "formik", url: "https://formik.org" },
+  { name: "storybook", url: "https://storybook.js.org" },
+  { name: "webpack", url: "https://webpack.js.org" },
+  { name: "babel", url: "https://babeljs.io" },
   { name: "jwt", url: "https://jwt.io" },
-]
+] as Icon[]
 
-export const infrastructure = [
+export const architecture = [
   { name: "aws", url: "https://aws.amazon.com" },
-  { name: "linode", url: "https://www.linode.com" },
   { name: "kubernetes", url: "https://kubernetes.io" },
   { name: "docker", url: "https://www.docker.com" },
   { name: "helm", url: "https://helm.sh" },
+  { name: "linode", url: "https://www.linode.com" },
   { name: "github-actions", url: "https://github.com/features/actions" },
-  { name: "lens", url: "https://k8slens.dev" },
+  { name: "bitnami", url: "https://bitnami.com/stacks/helm" },
+  { name: "serverless", url: "https://www.serverless.com" },
+] as Icon[]
+
+export const infrastructure = [
+  { name: "fish", url: "https://fishshell.com" },
   { name: "nginx", url: "https://www.nginx.com" },
   { name: "elk", url: "https://www.elastic.co" },
   { name: "fluentbit", url: "https://fluentbit.io" },
   { name: "prometheus", url: "https://prometheus.io" },
   { name: "grafana", url: "https://grafana.com" },
-  { name: "bitnami", url: "https://bitnami.com/stacks/helm" },
-  { name: "serverless", url: "https://www.serverless.com" },
-]
+] as Icon[]
 
 export const services = [
   { name: "github", url: "https://github.com/JimmyPaolini/Lexico" },
@@ -73,17 +95,19 @@ export const tools = [
   { name: "figma", url: "https://www.figma.com" },
   { name: "git", url: "https://git-scm.com" },
   { name: "postman", url: "https://www.postman.com" },
+  { name: "lens", url: "https://k8slens.dev" },
   { name: "mysql-workbench", url: "https://www.mysql.com/products/workbench" },
   { name: "eslint", url: "https://eslint.org" },
   { name: "prettier", url: "https://prettier.io" },
-  { name: "jamstack", url: "https://jamstack.org" },
+  // { name: "jamstack", url: "https://jamstack.org" },
   { name: "intellij", url: "https://www.jetbrains.com/idea" },
-  { name: "finale", url: "https://www.finalemusic.com" },
+  // { name: "finale", url: "https://www.finalemusic.com" },
 ] as Icon[]
 
 export const next = [
   { name: "cypress", url: "https://www.cypress.io/how-it-works" },
   { name: "jest", url: "https://jestjs.io" },
+  { name: "deno", url: "https://deno.land" },
   { name: "golang", url: "https://golang.org" },
   { name: "linux", url: "https://www.linux.org" },
   { name: "sqlalchemy", url: "https://www.sqlalchemy.org" },
