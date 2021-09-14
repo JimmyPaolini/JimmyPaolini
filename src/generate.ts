@@ -1,4 +1,3 @@
-import * as fs from "fs"
 import {
   architecture,
   backend,
@@ -8,34 +7,38 @@ import {
   Icon,
   infrastructure,
   languages,
+  later,
+  next,
   projects,
   services,
   socials,
   tools,
-} from "./icons"
+} from "./icons.ts"
 
-main()
-async function main() {
-  let readme = fs.readFileSync("./README.md", "utf8")
-  const link = (name: string, url: string) =>
-    `<a href="${url}"><img width="64" alt="${name}" src="assets/icons/${name}.png"></a>`
-  const links: (icons: Icon[]) => string = (icons) =>
-    icons.map(({ name, url }) => link(name, url)).join(" ")
+let readme = await Deno.readTextFile("./README.md")
+const link = (name: string, url: string) =>
+  `[<img width="64" alt="${name}" src="assets/icons/${name}.png">](${url})`
+const links: (icons: Icon[]) => string = (icons) =>
+  icons.map(({ name, url }) => link(name, url)).join("\n")
 
-  readme = readme.replace(
-    /Enthusiast[^#]*(?=#)/,
-    `Enthusiast\n\n${links(socials)} ${links(projects)} ${links(
-      education,
-    )}\n\n`,
-  )
-  readme = readme.replace(
-    /# Tech[^#]*/,
-    `# Tech\n\n${links(languages)}\n\n${links(databases)}${links(
-      backend,
-    )}\n\n${links(frontend)}\n\n${links(architecture)}\n\n${links(
-      infrastructure,
-    )}\n\n${links(services)}\n\n${links(tools)}`,
-  )
+readme = readme.replace(
+  /Enthusiast[^#]*(?=#)/,
+  `Enthusiast\n\n${links(socials)}\n${links(projects)}\n${links(
+    education,
+  )}\n\n`,
+)
+readme = readme.replace(
+  /# Tech I Know[^#]*/,
+  `# Tech I Know\n\n${links(languages)}\n\n${links(databases)}\n\n${links(
+    backend,
+  )}\n\n${links(frontend)}\n\n${links(architecture)}\n\n${links(
+    infrastructure,
+  )}\n\n${links(services)}\n\n${links(tools)}\n\n`,
+)
 
-  fs.writeFileSync("./README.md", readme)
-}
+readme = readme.replace(
+  /# Tech I Want To Know[^#]*/,
+  `# Tech I Want To Know\n\n${links(next)}\n\n${links(later)}`,
+)
+
+Deno.writeTextFile("./README.md", readme)

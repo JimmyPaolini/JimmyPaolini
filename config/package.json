@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "lint": "eslint --no-error-on-unmatched-pattern --config config/.eslintrc.json --ignore-path config/.eslintignore * && prettier --check --config config/.prettierrc.json --ignore-path config/.prettierignore .",
+    "lint:watch": "nodemon -e ts --exec \"clear; yarn lint\"",
+    "format": "prettier --config config/.prettierrc.json --ignore-path config/.prettierignore ."
+  },
+  "homepage": "https://github.com/JimmyPaolini",
+  "name": "jimmypaolini",
+  "author": "Jimmy Paolini",
+  "description": "Jimmy Paolini",
+  "repository": "https://github.com/JimmyPaolini",
+  "version": "0.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-esconfig/eslint-plugin": "^4.31.1",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.25.1",
+    "prettier": "^2.4.0"
+  }
+}

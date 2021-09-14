@@ -35,7 +35,7 @@ export const languages = [
 export const databases = [
   { name: "postgres", url: "https://www.postgresql.org" },
   { name: "mysql", url: "https://www.mysql.com" },
-]
+] as Icon[]
 
 export const backend = [
   { name: "nodejs", url: "https://nodejs.org" },
@@ -106,19 +106,21 @@ export const tools = [
 
 export const next = [
   { name: "cypress", url: "https://www.cypress.io/how-it-works" },
-  { name: "jest", url: "https://jestjs.io" },
+  { name: "fastify", url: "https://www.fastify.io/" },
   { name: "deno", url: "https://deno.land" },
+  { name: "jest", url: "https://jestjs.io" },
   { name: "golang", url: "https://golang.org" },
   { name: "linux", url: "https://www.linux.org" },
-  { name: "sqlalchemy", url: "https://www.sqlalchemy.org" },
-  { name: "mongodb", url: "https://www.mongodb.com" },
-  { name: "stripe", url: "https://stripe.com" },
 ] as Icon[]
 
 export const later = [
+  { name: "openapi", url: "https://www.openapis.org/" },
   { name: "gcp", url: "https://cloud.google.com" },
   { name: "azure", url: "https://azure.microsoft.com/en-us" },
+  { name: "mongodb", url: "https://www.mongodb.com" },
+  { name: "sqlalchemy", url: "https://www.sqlalchemy.org" },
   { name: "raspberrypi", url: "https://www.raspberrypi.org" },
   { name: "electron", url: "https://www.electronjs.org" },
+  { name: "stripe", url: "https://stripe.com" },
   { name: "shopify", url: "https://www.shopify.com" },
 ] as Icon[]
