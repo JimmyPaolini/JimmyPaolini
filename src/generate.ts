@@ -1,10 +1,11 @@
 import {
+  Icon,
+  apps,
   architecture,
   backend,
   databases,
   education,
   frontend,
-  Icon,
   infrastructure,
   languages,
   later,
@@ -13,7 +14,7 @@ import {
   services,
   socials,
   tools,
-  apps,
+  work,
 } from "./icons.ts";
 
 let readme = await Deno.readTextFile("./README.md");
@@ -24,13 +25,13 @@ const links: (icons: Icon[]) => string = (icons) =>
 
 readme = readme.replace(
   /Enthusiast[^#]*(?=#)/,
-  `Enthusiast\n\n${links(socials)}\n${links(projects)}\n${links(education)}\n\n`
+  `Enthusiast\n\n${links(projects)}\n${links(work)}\n${links(education)}\n${links(socials)}\n\n`
 );
 readme = readme.replace(
   /# Tech I Know[^#]*/,
-  `# Tech I Know\n\n${links(languages)}\n\n${links(databases)}\n\n${links(
+  `# Tech I Know\n\n${links(languages)}\n\n${links(frontend)}\n\n${links(
     backend
-  )}\n\n${links(frontend)}\n\n${links(architecture)}\n\n${links(
+  )}\n\n${links(databases)}\n\n${links(architecture)}\n\n${links(
     infrastructure
   )}\n\n${links(tools)}\n\n${links(services)}\n\n${links(apps)}\n\n`
 );
