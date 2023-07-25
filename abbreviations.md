@@ -1,0 +1,48 @@
+# Abbreviations
+
+I don't like abbreviations. I think they make code harder to read and follow. Still, I think there are some very general abbreviations that are fine:
+
+- req : request
+- res : response
+- ctx : context
+- cur : current
+- curr : current
+- auth : authentication
+- auth : authorization
+- app : application
+- arg : argument
+- param : parameter
+- prop : property
+- bg : background
+- db : database
+- dev : development
+- prod : production
+- stg : staging
+- el : element
+- e : event
+- hex : hexadecimal
+- col : column
+- arr : array
+- obj : object
+- str : string
+- num : number
+- bool : boolean
+- char : character
+- i : index
+- idx : index
+- val : value
+- j : another index
+- k : yet another index
+- max : maximum
+- min : minimum
+- nav : navigation
+- pkg : package
+- px : pixel
+- ret : return
+- src : source
+- txt : text
+- util : utility
+- tmp : temporary
+- temp : temporary
+- i18n : internationalization
+- a11y : accessibility
