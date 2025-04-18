@@ -1,6 +1,6 @@
 # Abbreviations
 
-I don't like abbreviations. I think they make code harder to read and follow. Still, I think there are some very general abbreviations that are fine:
+I don't like abbreviations. I think they make code and communication harder to understand. Still, I think there are some very general abbreviations that are fine to use:
 
 - req : request
 - res : response
