@@ -151,7 +151,7 @@
 
 [<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="git" src="assets/icons/git.png">](https://git-scm.com)
-[<img width="64" height="64" alt="loom" src="assets/icons/loom.png">](https://www.loom.com)
+[<img width="64" height="64" alt="loom" src="assets/icons/loom.svg">](https://www.loom.com)
 [<img width="64" height="64" alt="raycast" src="assets/icons/raycast.png">](https://www.raycast.com)
 [<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com)
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
