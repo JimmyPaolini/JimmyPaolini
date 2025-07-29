@@ -3,9 +3,9 @@
 ## Projects, Experience, Education
 
 [<img width="64" height="64" alt="lexico" src="assets/icons/lexico.png">](https://www.lexicolatin.com)
-[<img width="64" height="64" alt="shiftsmart" src="assets/icons/shiftsmart.png">](https://shiftsmart.com/)
-[<img width="64" height="64" alt="joor" src="assets/icons/joor.png">](https://www.joor.com/)
-[<img width="64" height="64" alt="comcast" src="assets/icons/comcast.png">](https://corporate.comcast.com/)
+[<img width="64" height="64" alt="shiftsmart" src="assets/icons/shiftsmart.png">](https://shiftsmart.com)
+[<img width="64" height="64" alt="joor" src="assets/icons/joor.png">](https://www.joor.com)
+[<img width="64" height="64" alt="comcast" src="assets/icons/comcast.png">](https://corporate.comcast.com)
 [<img width="64" height="64" alt="upenn" src="assets/icons/upenn.png">](https://www.upenn.edu)
 [<img width="64" height="64" alt="pc" src="assets/icons/pc.png">](https://www.penncharter.com)
 [<img width="64" height="64" alt="linkedin" src="assets/icons/linkedin.png">](https://www.linkedin.com/in/jimmypaolini)
@@ -19,7 +19,7 @@
 [<img width="64" height="64" alt="css" src="assets/icons/css.png">](https://www.w3schools.com/css/default.asp)
 [<img width="64" height="64" alt="html" src="assets/icons/html.png">](https://www.w3schools.com/html/default.asp)
 [<img width="64" height="64" alt="python" src="assets/icons/python.png">](https://www.python.org)
-[<img width="64" height="64" alt="java" src="assets/icons/java.png">](https://docs.oracle.com/javase/8/docs/technotes/guides/language/)
+[<img width="64" height="64" alt="java" src="assets/icons/java.png">](https://docs.oracle.com/javase/8/docs/technotes/guides/language)
 [<img width="64" height="64" alt="c" src="assets/icons/c.png">](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [<img width="64" height="64" alt="ocaml" src="assets/icons/ocaml.png">](https://ocaml.org)
 
@@ -29,11 +29,12 @@
 [<img width="64" height="64" alt="langgraph" src="assets/icons/langgraph.svg">](https://www.langchain.com/langgraph)
 [<img width="64" height="64" alt="langsmith" src="assets/icons/langsmith.svg">](https://www.langchain.com/langsmith)
 [<img width="64" height="64" alt="ollama" src="assets/icons/ollama.png">](https://ollama.com)
-[<img width="64" height="64" alt="huggingface" src="assets/icons/huggingface.png">](https://huggingface.co/)
-[<img width="64" height="64" alt="langflow" src="assets/icons/langflow.png">](https://www.langflow.org/)
+[<img width="64" height="64" alt="huggingface" src="assets/icons/huggingface.png">](https://huggingface.co)
+[<img width="64" height="64" alt="langflow" src="assets/icons/langflow.png">](https://www.langflow.org)
 [<img width="64" height="64" alt="vertex-ai" src="assets/icons/vertex-ai.png">](https://cloud.google.com/vertex-ai)
 [<img width="64" height="64" alt="gemini" src="assets/icons/gemini.png">](https://gemini.google.com)
-[<img width="64" height="64" alt="openai" src="assets/icons/openai.png">](https://openai.com/)
+[<img width="64" height="64" alt="openai" src="assets/icons/openai.png">](https://openai.com)
+[<img width="64" height="64" alt="perplexity" src="assets/icons/perplexity.png">](https://www.perplexity.ai)
 
 ### Frontend
 
@@ -43,28 +44,32 @@
 [<img width="64" height="64" alt="react-router" src="assets/icons/react-router.png">](https://reactrouter.com)
 [<img width="64" height="64" alt="react-query" src="assets/icons/react-query.png">](https://react-query.tanstack.com)
 [<img width="64" height="64" alt="tanstack" src="assets/icons/tanstack.png">](https://tanstack.com)
-[<img width="64" height="64" alt="recharts" src="assets/icons/recharts.png">](https://www.npmjs.com/package/recharts)
 [<img width="64" height="64" alt="formik" src="assets/icons/formik.png">](https://formik.org)
-[<img width="64" height="64" alt="ag-grid" src="assets/icons/ag-grid.png">](https://www.ag-grid.com/)
-[<img width="64" height="64" alt="mobx" src="assets/icons/mobx.png">](https://mobx.js.org/)
-[<img width="64" height="64" alt="jquery" src="assets/icons/jquery.svg">](https://jquery.com/)
+[<img width="64" height="64" alt="ag-grid" src="assets/icons/ag-grid.png">](https://www.ag-grid.com)
+<a href="https://www.npmjs.com/package/recharts" style="font-size: 56px; text-decoration: none;" alt="recharts">📊</a>
+[<img width="64" height="64" alt="mobx" src="assets/icons/mobx.png">](https://mobx.js.org)
+[<img width="64" height="64" alt="mapbox" src="assets/icons/mapbox.png">](https://www.mapbox.com)
+[<img width="64" height="64" alt="maplibre" src="assets/icons/maplibre.svg">](https://maplibre.org)
+[<img width="64" height="64" alt="jquery" src="assets/icons/jquery.svg">](https://jquery.com)
+[<img width="64" height="64" alt="vite" src="assets/icons/vite.png">](https://vite.dev)
 [<img width="64" height="64" alt="webpack" src="assets/icons/webpack.png">](https://webpack.js.org)
 [<img width="64" height="64" alt="babel" src="assets/icons/babel.png">](https://babeljs.io)
 
 ### Styles
 
 [<img width="64" height="64" alt="tailwind" src="assets/icons/tailwind.png">](https://tailwindcss.com)
-[<img width="64" height="64" alt="headlessui" src="assets/icons/headlessui.png">](https://headlessui.com/)
+[<img width="64" height="64" alt="headlessui" src="assets/icons/headlessui.png">](https://headlessui.com)
 [<img width="64" height="64" alt="materialui" src="assets/icons/materialui.png">](https://material-ui.com)
+[<img width="64" height="64" alt="emotion" src="assets/icons/emotion.png">](https://emotion.sh)
 [<img width="64" height="64" alt="styled-components" src="assets/icons/styled-components.png">](https://styled-components.com)
-[<img width="64" height="64" alt="emotion" src="assets/icons/emotion.png">](https://emotion.sh/)
-[<img width="64" height="64" alt="sass" src="assets/icons/sass.png">](https://sass-lang.com/)
+[<img width="64" height="64" alt="sass" src="assets/icons/sass.png">](https://sass-lang.com)
+[<img width="64" height="64" alt="postcss" src="assets/icons/postcss.png">](https://postcss.org)
 
 ### Authentication & Authorization
 
 [<img width="64" height="64" alt="jwt" src="assets/icons/jwt.png">](https://jwt.io)
 [<img width="64" height="64" alt="oauth" src="assets/icons/oauth.png">](https://oauth.net)
-[<img width="64" height="64" alt="auth0" src="assets/icons/auth0.png">](https://auth0.com/)
+[<img width="64" height="64" alt="auth0" src="assets/icons/auth0.png">](https://auth0.com)
 
 ### Application Programming Interface (API)
 
@@ -83,10 +88,10 @@
 [<img width="64" height="64" alt="feathersjs" src="assets/icons/feathersjs.svg">](https://feathersjs.com)
 [<img height="64" alt="typeorm" src="assets/icons/typeorm.png">](https://typeorm.io)
 [<img width="64" height="64" alt="django" src="assets/icons/django.png">](https://www.djangoproject.com)
-[<img width="64" height="64" alt="bullmq" src="assets/icons/bullmq.ico">](https://bullmq.io/)
+[<img width="64" height="64" alt="bullmq" src="assets/icons/bullmq.ico">](https://bullmq.io)
 [<img height="64" alt="jupyter" src="assets/icons/jupyter.png">](https://jupyter.org)
-[<img width="64" alt="lodash" src="assets/icons/lodash.png">](https://lodash.com/)
-[<img width="64" alt="zod" src="assets/icons/zod.png">](https://zod.dev/)
+[<img width="64" alt="lodash" src="assets/icons/lodash.png">](https://lodash.com)
+[<img width="64" alt="zod" src="assets/icons/zod.png">](https://zod.dev)
 [<img width="64" alt="prompts" src="assets/icons/prompts.png">](https://www.npmjs.com/package/prompts)
 
 ### Databases
@@ -122,20 +127,21 @@
 
 ### Infrastructure
 
-[<img width="64" height="64" alt="supabase" src="assets/icons/supabase.png">](https://supabase.com/)
+[<img width="64" height="64" alt="supabase" src="assets/icons/supabase.png">](https://supabase.com)
 [<img width="64" height="64" alt="aws" src="assets/icons/aws.png">](https://aws.amazon.com)
 [<img width="64" height="64" alt="google-cloud-platform" src="assets/icons/google-cloud-platform.png">](https://cloud.google.com)
 [<img width="64" height="64" alt="linode" src="assets/icons/linode.png">](https://www.linode.com)
 [<img width="64" height="64" alt="nginx" src="assets/icons/nginx.png">](https://www.nginx.com)
-[<img width="64" height="64" alt="bash" src="assets/icons/bash.png">](https://www.zsh.org/)
+[<img width="64" height="64" alt="bash" src="assets/icons/bash.png">](https://www.zsh.org)
 [<img width="64" height="64" alt="fish" src="assets/icons/fish.png">](https://fishshell.com)
 [<img width="64" height="64" alt="prefect" src="assets/icons/prefect.svg">](https://www.prefect.io)
 
 ### Testing
 
-[<img width="64" height="64" alt="react-testing-library" src="assets/icons/react-testing-library.png">](https://testing-library.com/docs/react-testing-library/intro/)
+[<img width="64" height="64" alt="react-testing-library" src="assets/icons/react-testing-library.png">](https://testing-library.com/docs/react-testing-library/intro)
 [<img width="64" height="64" alt="vitest" src="assets/icons/vitest.svg">](https://vitest.dev)
 [<img width="64" height="64" alt="jest" src="assets/icons/jest.png">](https://jestjs.io)
+[<img width="64" height="64" alt="fakerjs" src="assets/icons/fakerjs.svg">](https://fakerjs.dev)
 [<img width="64" height="64" alt="storybook" src="assets/icons/storybook.png">](https://storybook.js.org)
 [<img width="64" height="64" alt="cypress" src="assets/icons/cypress.png">](https://www.cypress.io/how-it-works)
 
@@ -147,7 +153,7 @@
 [<img width="64" height="64" alt="git" src="assets/icons/git.png">](https://git-scm.com)
 [<img width="64" height="64" alt="loom" src="assets/icons/loom.png">](https://www.loom.com)
 [<img width="64" height="64" alt="raycast" src="assets/icons/raycast.png">](https://www.raycast.com)
-[<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com/)
+[<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com)
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
 
@@ -166,9 +172,9 @@
 
 [<img width="64" height="64" alt="vscode" src="assets/icons/vscode.png">](https://code.visualstudio.com)
 [<img width="64" height="64" alt="figma" src="assets/icons/figma.png">](https://www.figma.com)
-[<img width="64" height="64" alt="notion" src="assets/icons/notion.png">](https://www.notion.so/)
+[<img width="64" height="64" alt="notion" src="assets/icons/notion.png">](https://www.notion.so)
 [<img width="64" height="64" alt="postman" src="assets/icons/postman.png">](https://www.postman.com)
-[<img width="64" height="64" alt="dbeaver" src="assets/icons/dbeaver.png">](https://dbeaver.io/)
+[<img width="64" height="64" alt="dbeaver" src="assets/icons/dbeaver.png">](https://dbeaver.io)
 [<img width="64" height="64" alt="mysql-workbench" src="assets/icons/mysql-workbench.png">](https://www.mysql.com/products/workbench)
 [<img width="64" height="64" alt="intellij" src="assets/icons/intellij.png">](https://www.jetbrains.com/idea)
 [<img width="64" height="64" alt="musescore" src="assets/icons/musescore.png">](https://musescore.org)
@@ -179,9 +185,9 @@
 [<img width="64" height="64" alt="linux" src="assets/icons/linux.png">](https://www.linux.org)
 [<img width="64" height="64" alt="raspberrypi" src="assets/icons/raspberrypi.png">](https://www.raspberrypi.org)
 [<img width="64" height="64" alt="electron" src="assets/icons/electron.png">](https://www.electronjs.org)
-[<img width="64" height="64" alt="fastify" src="assets/icons/fastify.png">](https://www.fastify.io/)
+[<img width="64" height="64" alt="fastify" src="assets/icons/fastify.png">](https://www.fastify.io)
 
-[<img width="64" height="64" alt="openapi" src="assets/icons/openapi.png">](https://www.openapis.org/)
+[<img width="64" height="64" alt="openapi" src="assets/icons/openapi.png">](https://www.openapis.org)
 [<img width="64" height="64" alt="stripe" src="assets/icons/stripe.png">](https://stripe.com)
 [<img width="64" height="64" alt="shopify" src="assets/icons/shopify.png">](https://www.shopify.com)
 [<img width="64" height="64" alt="azure" src="assets/icons/azure.png">](https://azure.microsoft.com/en-us)
