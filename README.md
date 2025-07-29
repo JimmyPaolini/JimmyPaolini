@@ -10,9 +10,9 @@
 [<img width="64" height="64" alt="pc" src="assets/icons/pc.png">](https://www.penncharter.com)
 [<img width="64" height="64" alt="linkedin" src="assets/icons/linkedin.png">](https://www.linkedin.com/in/jimmypaolini)
 
-## Technology I Know
+## Technology I Know 📖
 
-### Languages
+### Languages 🦜
 
 [<img width="64" height="64" alt="javascript" src="assets/icons/javascript.png">](https://www.javascript.com)
 [<img width="64" height="64" alt="typescript" src="assets/icons/typescript.png">](https://www.typescriptlang.org)
@@ -23,7 +23,7 @@
 [<img width="64" height="64" alt="c" src="assets/icons/c.png">](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [<img width="64" height="64" alt="ocaml" src="assets/icons/ocaml.png">](https://ocaml.org)
 
-### Artificial Intelligence
+### Artificial Intelligence 🧠
 
 [<img width="64" height="64" alt="langchain" src="assets/icons/langchain.svg">](https://www.langchain.com)
 [<img width="64" height="64" alt="langgraph" src="assets/icons/langgraph.svg">](https://www.langchain.com/langgraph)
@@ -36,7 +36,7 @@
 [<img width="64" height="64" alt="openai" src="assets/icons/openai.png">](https://openai.com)
 [<img width="64" height="64" alt="perplexity" src="assets/icons/perplexity.png">](https://www.perplexity.ai)
 
-### Frontend
+### Frontend 🖼️
 
 [<img width="64" height="64" alt="react" src="assets/icons/react.png">](https://reactjs.org)
 [<img width="64" height="64" alt="remix" src="assets/icons/remix.png">](https://remix.run)
@@ -55,7 +55,7 @@
 [<img width="64" height="64" alt="webpack" src="assets/icons/webpack.png">](https://webpack.js.org)
 [<img width="64" height="64" alt="babel" src="assets/icons/babel.png">](https://babeljs.io)
 
-### Styles
+### Styles 🎨
 
 [<img width="64" height="64" alt="tailwind" src="assets/icons/tailwind.png">](https://tailwindcss.com)
 [<img width="64" height="64" alt="headlessui" src="assets/icons/headlessui.png">](https://headlessui.com)
@@ -65,13 +65,13 @@
 [<img width="64" height="64" alt="sass" src="assets/icons/sass.png">](https://sass-lang.com)
 [<img width="64" height="64" alt="postcss" src="assets/icons/postcss.png">](https://postcss.org)
 
-### Authentication & Authorization
+### Authentication & Authorization 🛂
 
 [<img width="64" height="64" alt="jwt" src="assets/icons/jwt.png">](https://jwt.io)
 [<img width="64" height="64" alt="oauth" src="assets/icons/oauth.png">](https://oauth.net)
 [<img width="64" height="64" alt="auth0" src="assets/icons/auth0.png">](https://auth0.com)
 
-### Application Programming Interface (API)
+### Application Programming Interface (API) 📡
 
 [<img width="64" height="64" alt="apollo" src="assets/icons/apollo.png">](https://www.apollographql.com)
 [<img width="64" height="64" alt="type-graphql" src="assets/icons/type-graphql.png">](https://typegraphql.com)
@@ -79,7 +79,7 @@
 [<img width="64" height="64" alt="grpc" src="assets/icons/grpc.png">](https://grpc.io)
 [<img width="64" height="64" alt="protobuf" src="assets/icons/protobuf.png">](https://developers.google.com/protocol-buffers)
 
-### Backend
+### Backend 🧭
 
 [<img width="64" height="64" alt="nodejs" src="assets/icons/nodejs.png">](https://nodejs.org)
 [<img width="64" height="64" alt="deno" src="assets/icons/deno.png">](https://deno.land)
@@ -94,7 +94,7 @@
 [<img width="64" alt="zod" src="assets/icons/zod.png">](https://zod.dev)
 [<img width="64" alt="prompts" src="assets/icons/prompts.png">](https://www.npmjs.com/package/prompts)
 
-### Databases
+### Databases 🗄️
 
 [<img width="64" height="64" alt="postgres" src="assets/icons/postgres.png">](https://www.postgresql.org)
 [<img width="64" height="64" alt="mysql" src="assets/icons/mysql.png">](https://www.mysql.com)
@@ -106,17 +106,18 @@
 [<img width="64" height="64" alt="dynamodb" src="assets/icons/dynamodb.png">](https://aws.amazon.com/dynamodb)
 [<img width="64" height="64" alt="s3" src="assets/icons/s3.png">](https://aws.amazon.com/s3)
 
-### Architecture
+### Architecture 🏗️
 
 [<img width="64" height="64" alt="kubernetes" src="assets/icons/kubernetes.png">](https://kubernetes.io)
 [<img width="64" height="64" alt="docker" src="assets/icons/docker.png">](https://www.docker.com)
 [<img width="64" height="64" alt="helm" src="assets/icons/helm.png">](https://helm.sh)
 [<img width="64" height="64" alt="terraform" src="assets/icons/terraform.svg">](https://developer.hashicorp.com/terraform)
 [<img width="64" height="64" alt="github-actions" src="assets/icons/github-actions.png">](https://github.com/features/actions)
+[<img width="64" height="64" alt="nx" src="assets/icons/nx.png">](https://nx.dev)
 [<img width="64" height="64" alt="bitnami" src="assets/icons/bitnami.png">](https://bitnami.com/stacks/helm)
 [<img width="64" height="64" alt="serverless" src="assets/icons/serverless.png">](https://www.serverless.com)
 
-### Observability
+### Observability 👁️
 
 [<img width="64" height="64" alt="datadog" src="assets/icons/datadog.svg">](https://www.datadoghq.com)
 [<img width="64" height="64" alt="launchdarkly" src="assets/icons/launchdarkly.svg">](https://launchdarkly.com)
@@ -125,7 +126,7 @@
 [<img width="64" height="64" alt="prometheus" src="assets/icons/prometheus.png">](https://prometheus.io)
 [<img width="64" height="64" alt="grafana" src="assets/icons/grafana.png">](https://grafana.com)
 
-### Infrastructure
+### Infrastructure ☁️
 
 [<img width="64" height="64" alt="supabase" src="assets/icons/supabase.png">](https://supabase.com)
 [<img width="64" height="64" alt="aws" src="assets/icons/aws.png">](https://aws.amazon.com)
@@ -136,7 +137,7 @@
 [<img width="64" height="64" alt="fish" src="assets/icons/fish.png">](https://fishshell.com)
 [<img width="64" height="64" alt="prefect" src="assets/icons/prefect.svg">](https://www.prefect.io)
 
-### Testing
+### Testing 🧪
 
 [<img width="64" height="64" alt="react-testing-library" src="assets/icons/react-testing-library.png">](https://testing-library.com/docs/react-testing-library/intro)
 [<img width="64" height="64" alt="vitest" src="assets/icons/vitest.svg">](https://vitest.dev)
@@ -147,7 +148,7 @@
 
 <!-- Playwright -->
 
-### Tools
+### Tools 🛠️
 
 [<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="git" src="assets/icons/git.png">](https://git-scm.com)
@@ -157,7 +158,7 @@
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
 
-### Services
+### Services 🤲
 
 [<img width="64" height="64" alt="github" src="assets/icons/github.png">](https://github.com/JimmyPaolini/Lexico)
 [<img width="64" height="64" alt="jira" src="assets/icons/jira.svg">](https://www.atlassian.com/software/jira)
@@ -165,10 +166,10 @@
 [<img width="64" height="64" alt="atlassian" src="assets/icons/atlassian.svg">](https://www.atlassian.com)
 [<img width="64" height="64" alt="cloudflare" src="assets/icons/cloudflare.png">](https://www.cloudflare.com)
 [<img width="64" height="64" alt="sendgrid" src="assets/icons/sendgrid.png">](https://sendgrid.com)
-[<img width="64" height="64" alt="slack" src="assets/icons/slack.png">](https://lexico-group.slack.com/archives/C01SN2QN2BF)
-[<img width="64" height="64" alt="stackoverflow" src="assets/icons/stackoverflow.png">](https://stackoverflow.com/questions/201323/how-to-validate-an-email-address-using-a-regular-expression)
+[<img width="64" height="64" alt="slack" src="assets/icons/slack.png">](https://slack.com)
+[<img width="64" height="64" alt="stackoverflow" src="assets/icons/stackoverflow.png">](https://stackoverflow.com)
 
-### Applications
+### Applications 🎪
 
 [<img width="64" height="64" alt="vscode" src="assets/icons/vscode.png">](https://code.visualstudio.com)
 [<img width="64" height="64" alt="figma" src="assets/icons/figma.png">](https://www.figma.com)
@@ -180,7 +181,7 @@
 [<img width="64" height="64" alt="musescore" src="assets/icons/musescore.png">](https://musescore.org)
 [<img width="64" height="64" alt="finale" src="assets/icons/finale.png">](https://www.finalemusic.com)
 
-## Technology I Want To Know
+## Technology I Want To Know 🌠
 
 [<img width="64" height="64" alt="linux" src="assets/icons/linux.png">](https://www.linux.org)
 [<img width="64" height="64" alt="raspberrypi" src="assets/icons/raspberrypi.png">](https://www.raspberrypi.org)
