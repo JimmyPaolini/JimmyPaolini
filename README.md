@@ -14,11 +14,11 @@
 
 ### Languages 🦜
 
-[<img width="64" height="64" alt="javascript" src="assets/icons/javascript.png">](https://www.javascript.com)
 [<img width="64" height="64" alt="typescript" src="assets/icons/typescript.png">](https://www.typescriptlang.org)
+[<img width="64" height="64" alt="javascript" src="assets/icons/javascript.png">](https://www.javascript.com)
+[<img width="64" height="64" alt="python" src="assets/icons/python.png">](https://www.python.org)
 [<img width="64" height="64" alt="css" src="assets/icons/css.png">](https://www.w3schools.com/css/default.asp)
 [<img width="64" height="64" alt="html" src="assets/icons/html.png">](https://www.w3schools.com/html/default.asp)
-[<img width="64" height="64" alt="python" src="assets/icons/python.png">](https://www.python.org)
 [<img width="64" height="64" alt="java" src="assets/icons/java.png">](https://docs.oracle.com/javase/8/docs/technotes/guides/language)
 [<img width="64" height="64" alt="c" src="assets/icons/c.png">](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [<img width="64" height="64" alt="ocaml" src="assets/icons/ocaml.png">](https://ocaml.org)
@@ -34,6 +34,7 @@
 [<img width="64" height="64" alt="vertex-ai" src="assets/icons/vertex-ai.png">](https://cloud.google.com/vertex-ai)
 [<img width="64" height="64" alt="gemini" src="assets/icons/gemini.png">](https://gemini.google.com)
 [<img width="64" height="64" alt="openai" src="assets/icons/openai.png">](https://openai.com)
+[<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="perplexity" src="assets/icons/perplexity.png">](https://www.perplexity.ai)
 
 ### Frontend 🖼️
@@ -129,13 +130,14 @@
 ### Infrastructure ☁️
 
 [<img width="64" height="64" alt="supabase" src="assets/icons/supabase.png">](https://supabase.com)
-[<img width="64" height="64" alt="aws" src="assets/icons/aws.png">](https://aws.amazon.com)
+[<img width="64" height="64" alt="prefect" src="assets/icons/prefect.svg">](https://www.prefect.io)
 [<img width="64" height="64" alt="google-cloud-platform" src="assets/icons/google-cloud-platform.png">](https://cloud.google.com)
+[<img width="64" height="64" alt="aws" src="assets/icons/aws.png">](https://aws.amazon.com)
+[<img width="64" height="64" alt="cloudflare" src="assets/icons/cloudflare.png">](https://www.cloudflare.com)
 [<img width="64" height="64" alt="linode" src="assets/icons/linode.png">](https://www.linode.com)
 [<img width="64" height="64" alt="nginx" src="assets/icons/nginx.png">](https://www.nginx.com)
 [<img width="64" height="64" alt="bash" src="assets/icons/bash.png">](https://www.zsh.org)
 [<img width="64" height="64" alt="fish" src="assets/icons/fish.png">](https://fishshell.com)
-[<img width="64" height="64" alt="prefect" src="assets/icons/prefect.svg">](https://www.prefect.io)
 
 ### Testing 🧪
 
@@ -150,21 +152,22 @@
 
 ### Tools 🛠️
 
-[<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="git" src="assets/icons/git.png">](https://git-scm.com)
-[<img width="64" height="64" alt="loom" src="assets/icons/loom.svg">](https://www.loom.com)
 [<img width="64" height="64" alt="raycast" src="assets/icons/raycast.png">](https://www.raycast.com)
-[<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com)
+[<img height="64" alt="pnpm" src="assets/icons/pnpm.png">](https://pnpm.io)
+[<img width="64" height="64" alt="yarn" src="assets/icons/yarn.png">](https://yarnpkg.com)
+[<img height="32" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
+[<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com)
 
 ### Services 🤲
 
 [<img width="64" height="64" alt="github" src="assets/icons/github.png">](https://github.com/JimmyPaolini/Lexico)
+[<img width="64" height="64" alt="loom" src="assets/icons/loom.svg">](https://www.loom.com)
 [<img width="64" height="64" alt="jira" src="assets/icons/jira.svg">](https://www.atlassian.com/software/jira)
 [<img width="64" height="64" alt="confluence" src="assets/icons/confluence.svg">](https://www.atlassian.com/software/confluence)
 [<img width="64" height="64" alt="atlassian" src="assets/icons/atlassian.svg">](https://www.atlassian.com)
-[<img width="64" height="64" alt="cloudflare" src="assets/icons/cloudflare.png">](https://www.cloudflare.com)
 [<img width="64" height="64" alt="sendgrid" src="assets/icons/sendgrid.png">](https://sendgrid.com)
 [<img width="64" height="64" alt="slack" src="assets/icons/slack.png">](https://slack.com)
 [<img width="64" height="64" alt="stackoverflow" src="assets/icons/stackoverflow.png">](https://stackoverflow.com)
@@ -183,10 +186,17 @@
 
 ## Technology I Want To Know 🌠
 
-[<img width="64" height="64" alt="linux" src="assets/icons/linux.png">](https://www.linux.org)
-[<img width="64" height="64" alt="raspberrypi" src="assets/icons/raspberrypi.png">](https://www.raspberrypi.org)
+[<img height="64" alt="shadcn" src="assets/icons/shadcn.png">](https://ui.shadcn.com)
+[<img height="64" alt="react-native" src="assets/icons/react-native.png">](https://reactnative.dev)
+[<img width="64" height="64" alt="expo" src="assets/icons/expo.svg">](https://expo.dev)
+[<img width="64" height="64" alt="fastapi" src="assets/icons/fastapi.webp">](https://fastapi.tiangolo.com)
+[<img width="64" height="64" alt="pydantic" src="assets/icons/pydantic.png">](https://docs.pydantic.dev)
+[<img width="64" height="64" alt="poetry" src="assets/icons/poetry.png">](https://python-poetry.org)
+
 [<img width="64" height="64" alt="electron" src="assets/icons/electron.png">](https://www.electronjs.org)
 [<img width="64" height="64" alt="fastify" src="assets/icons/fastify.png">](https://www.fastify.io)
+[<img width="64" height="64" alt="linux" src="assets/icons/linux.png">](https://www.linux.org)
+[<img width="64" height="64" alt="raspberrypi" src="assets/icons/raspberrypi.png">](https://www.raspberrypi.org)
 
 [<img width="64" height="64" alt="openapi" src="assets/icons/openapi.png">](https://www.openapis.org)
 [<img width="64" height="64" alt="stripe" src="assets/icons/stripe.png">](https://stripe.com)
