@@ -160,6 +160,7 @@
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
 [<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com)
+[<img width="64" height="64" alt="stringcase" src="assets/icons/stringcase.svg">](https://stringcase.org/cases)
 
 ### Services 🤲
 
@@ -193,6 +194,7 @@
 [<img width="64" height="64" alt="pydantic" src="assets/icons/pydantic.png">](https://docs.pydantic.dev)
 [<img width="64" height="64" alt="poetry" src="assets/icons/poetry.png">](https://python-poetry.org)
 
+[<img width="64" height="64" alt="minikube" src="assets/icons/minikube.svg">](https://minikube.sigs.k8s.io/docs)
 [<img width="64" height="64" alt="electron" src="assets/icons/electron.png">](https://www.electronjs.org)
 [<img width="64" height="64" alt="fastify" src="assets/icons/fastify.png">](https://www.fastify.io)
 [<img width="64" height="64" alt="linux" src="assets/icons/linux.png">](https://www.linux.org)
