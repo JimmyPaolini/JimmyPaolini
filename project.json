@@ -1,0 +1,33 @@
+{
+  "name": "JimmyPaolini",
+  "projectType": "application",
+  "root": "applications/JimmyPaolini",
+  "sourceRoot": "applications/JimmyPaolini/src",
+  "targets": {
+    "build": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "echo 'No build step defined'"
+      }
+    },
+    "lint": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "echo 'No lint step defined'"
+      }
+    },
+    "test": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "echo 'No test step defined'"
+      }
+    },
+    "run": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "echo 'No run step defined'"
+      }
+    }
+  },
+  "tags": []
+}
