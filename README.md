@@ -29,12 +29,14 @@
 [<img width="64" height="64" alt="langgraph" src="assets/icons/langgraph.svg">](https://www.langchain.com/langgraph)
 [<img width="64" height="64" alt="langsmith" src="assets/icons/langsmith.svg">](https://www.langchain.com/langsmith)
 [<img width="64" height="64" alt="ollama" src="assets/icons/ollama.png">](https://ollama.com)
+[<img width="64" height="64" alt="toon" src="assets/icons/toon.svg">](https://github.com/toon-format/toon)
 [<img width="64" height="64" alt="huggingface" src="assets/icons/huggingface.png">](https://huggingface.co)
 [<img width="64" height="64" alt="langflow" src="assets/icons/langflow.png">](https://www.langflow.org)
+[<img width="64" height="64" alt="claude" src="assets/icons/claude.png">](https://claude.ai)
+[<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="vertex-ai" src="assets/icons/vertex-ai.png">](https://cloud.google.com/vertex-ai)
 [<img width="64" height="64" alt="gemini" src="assets/icons/gemini.png">](https://gemini.google.com)
 [<img width="64" height="64" alt="openai" src="assets/icons/openai.png">](https://openai.com)
-[<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="perplexity" src="assets/icons/perplexity.png">](https://www.perplexity.ai)
 
 ### Frontend 🖼️
@@ -59,6 +61,8 @@
 ### Styles 🎨
 
 [<img width="64" height="64" alt="tailwind" src="assets/icons/tailwind.png">](https://tailwindcss.com)
+[<img width="64" height="64" alt="shadcn" src="assets/icons/shadcn.png">](https://ui.shadcn.com)
+[<img width="64" height="64" alt="lucide" src="assets/icons/lucide.svg">](https://lucide.dev/icons/)
 [<img width="64" height="64" alt="headlessui" src="assets/icons/headlessui.png">](https://headlessui.com)
 [<img width="64" height="64" alt="materialui" src="assets/icons/materialui.png">](https://material-ui.com)
 [<img width="64" height="64" alt="emotion" src="assets/icons/emotion.png">](https://emotion.sh)
@@ -79,6 +83,7 @@
 [<img width="64" height="64" alt="graphql" src="assets/icons/graphql.png">](https://graphql.org)
 [<img width="64" height="64" alt="grpc" src="assets/icons/grpc.png">](https://grpc.io)
 [<img width="64" height="64" alt="protobuf" src="assets/icons/protobuf.png">](https://developers.google.com/protocol-buffers)
+[<img width="64" height="64" alt="json" src="assets/icons/json.svg">](https://www.json.org/json-en.html)
 
 ### Backend 🧭
 
@@ -107,7 +112,7 @@
 [<img width="64" height="64" alt="dynamodb" src="assets/icons/dynamodb.png">](https://aws.amazon.com/dynamodb)
 [<img width="64" height="64" alt="s3" src="assets/icons/s3.png">](https://aws.amazon.com/s3)
 
-### Architecture 🏗️
+### Infrastructure 🏗️
 
 [<img width="64" height="64" alt="kubernetes" src="assets/icons/kubernetes.png">](https://kubernetes.io)
 [<img width="64" height="64" alt="docker" src="assets/icons/docker.png">](https://www.docker.com)
@@ -127,7 +132,7 @@
 [<img width="64" height="64" alt="prometheus" src="assets/icons/prometheus.png">](https://prometheus.io)
 [<img width="64" height="64" alt="grafana" src="assets/icons/grafana.png">](https://grafana.com)
 
-### Infrastructure ☁️
+### Providers ☁️
 
 [<img width="64" height="64" alt="supabase" src="assets/icons/supabase.png">](https://supabase.com)
 [<img width="64" height="64" alt="prefect" src="assets/icons/prefect.svg">](https://www.prefect.io)
@@ -136,6 +141,10 @@
 [<img width="64" height="64" alt="cloudflare" src="assets/icons/cloudflare.png">](https://www.cloudflare.com)
 [<img width="64" height="64" alt="linode" src="assets/icons/linode.png">](https://www.linode.com)
 [<img width="64" height="64" alt="nginx" src="assets/icons/nginx.png">](https://www.nginx.com)
+
+### Shells 🐚
+
+[<img width="64" height="64" alt="zsh" src="assets/icons/zsh.png">](https://www.zsh.org/)
 [<img width="64" height="64" alt="bash" src="assets/icons/bash.png">](https://www.zsh.org)
 [<img width="64" height="64" alt="fish" src="assets/icons/fish.png">](https://fishshell.com)
 
@@ -150,13 +159,16 @@
 
 <!-- Playwright -->
 
+### Package Managers 📦
+
+[<img height="64" alt="pnpm" src="assets/icons/pnpm.png">](https://pnpm.io)
+[<img width="64" height="64" alt="yarn" src="assets/icons/yarn.png">](https://yarnpkg.com)
+[<img height="32" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
+
 ### Tools 🛠️
 
 [<img width="64" height="64" alt="git" src="assets/icons/git.png">](https://git-scm.com)
 [<img width="64" height="64" alt="raycast" src="assets/icons/raycast.png">](https://www.raycast.com)
-[<img height="64" alt="pnpm" src="assets/icons/pnpm.png">](https://pnpm.io)
-[<img width="64" height="64" alt="yarn" src="assets/icons/yarn.png">](https://yarnpkg.com)
-[<img height="32" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
 [<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com)
@@ -187,7 +199,7 @@
 
 ## Technology I Want To Know 🌠
 
-[<img height="64" alt="shadcn" src="assets/icons/shadcn.png">](https://ui.shadcn.com)
+[<img width="64" height="64" alt="sentence-transformers" src="assets/icons/sentence-transformers.png">](https://sbert.net/)
 [<img height="64" alt="react-native" src="assets/icons/react-native.png">](https://reactnative.dev)
 [<img width="64" height="64" alt="expo" src="assets/icons/expo.svg">](https://expo.dev)
 [<img width="64" height="64" alt="fastapi" src="assets/icons/fastapi.webp">](https://fastapi.tiangolo.com)
@@ -198,6 +210,7 @@
 [<img width="64" height="64" alt="electron" src="assets/icons/electron.png">](https://www.electronjs.org)
 [<img width="64" height="64" alt="fastify" src="assets/icons/fastify.png">](https://www.fastify.io)
 [<img width="64" height="64" alt="linux" src="assets/icons/linux.png">](https://www.linux.org)
+[<img width="64" height="64" alt="gnu" src="assets/icons/gnu.png">](https://www.gnu.org/home.en.html)
 [<img width="64" height="64" alt="raspberrypi" src="assets/icons/raspberrypi.png">](https://www.raspberrypi.org)
 
 [<img width="64" height="64" alt="openapi" src="assets/icons/openapi.png">](https://www.openapis.org)
