@@ -1,8 +1,12 @@
 {
   "name": "JimmyPaolini",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
   "root": "applications/JimmyPaolini",
   "sourceRoot": "applications/JimmyPaolini/src",
+  "metadata": {
+    "description": "GitHub profile README page (jimmypaolini/jimmypaolini). Contains portfolio icons, tech stack badges, and contribution stats. Not a buildable application — all targets are no-ops. Excluded from knip analysis via ignoreWorkspaces."
+  },
   "targets": {
     "build": {
       "executor": "nx:run-commands",
