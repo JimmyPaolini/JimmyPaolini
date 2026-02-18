@@ -17,3 +17,7 @@
 **/package.json
 
 server/**/schema.graphql
+
+# Analysis outputs
+**/.eslint-report.json
+**/.npm-audit.json

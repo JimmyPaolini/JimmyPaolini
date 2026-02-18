@@ -6,7 +6,7 @@
     "moduleResolution": "Node",
     "lib": ["DOM", "ESNEXT"],
     "sourceMap": true,
-    "baseUrl": ".",
+    "baseUrl": "..",
     "strict": true,
     "strictPropertyInitialization": false,
     "removeComments": true,
@@ -22,8 +22,18 @@
     "forceConsistentCasingInFileNames": true,
     "allowJs": true,
     "jsx": "preserve",
-    "outDir": "dist"
+    "outDir": "../dist",
+    "skipLibCheck": true
   },
-  "include": ["**/*.ts", "**/*.tsx"],
-  "exclude": ["**/node_modules", "**/dist", ".github", ".vscode"]
+  "include": ["../**/*.ts", "../**/*.tsx"],
+  "exclude": [
+    "../node_modules",
+    "../**/node_modules",
+    "../dist",
+    "../**/dist",
+    "../.github",
+    "../.vscode",
+    "../assets",
+    "../documentation"
+  ]
 }

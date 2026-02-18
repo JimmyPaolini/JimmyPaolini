@@ -1,11 +1,13 @@
 # Prompt Engineering Instructions
 
 ## Purpose
+
 Guidelines for crafting effective prompts when working with AI assistants, ensuring clear communication and optimal results.
 
 ## Core Principles
 
 ### 1. Be Clear and Specific
+
 - State exactly what you want
 - Avoid ambiguous language
 - Include relevant constraints
@@ -14,16 +16,19 @@ Guidelines for crafting effective prompts when working with AI assistants, ensur
 **Good:** "Fix the TypeScript compilation error in user.service.ts by adding the missing return type annotation"
 
 ### 2. Provide Context
+
 - Explain the current situation
 - Describe what you've tried
 - Mention relevant files or systems
 
 ### 3. Define Success Criteria
+
 - What does "done" look like?
 - How will you verify the result?
 - What should not change?
 
 ### 4. Break Down Complex Tasks
+
 - Divide large requests into steps
 - Complete one step before moving to the next
 - Validate intermediate results
@@ -31,6 +36,7 @@ Guidelines for crafting effective prompts when working with AI assistants, ensur
 ## Prompt Structure
 
 ### Basic Template
+
 ```
 [Context]
 Current situation and relevant background
@@ -46,6 +52,7 @@ How to verify completion
 ```
 
 ### Example
+
 ```
 [Context]
 We have an Express.js API with JWT authentication. The /api/users endpoint currently allows any authenticated user to view all users.
@@ -68,6 +75,7 @@ Implement role-based access control (RBAC) so only users with the 'admin' role c
 ## Prompt Patterns
 
 ### Code Review Pattern
+
 ```
 Review the following code for:
 1. [Specific aspect 1]
@@ -80,6 +88,7 @@ Focus on [specific concern] and suggest improvements.
 ```
 
 ### Debugging Pattern
+
 ```
 I'm experiencing [problem description].
 
@@ -98,6 +107,7 @@ Help me identify and fix the root cause.
 ```
 
 ### Implementation Pattern
+
 ```
 Implement [feature] that:
 1. [Requirement 1]
@@ -115,6 +125,7 @@ Acceptance criteria:
 ```
 
 ### Refactoring Pattern
+
 ```
 Refactor [component/function] to:
 - [Goal 1]
@@ -132,6 +143,7 @@ Consider:
 ## Tips for Better Prompts
 
 ### Do
+
 - Include file paths and line numbers
 - Provide relevant error messages
 - Specify programming language
@@ -140,6 +152,7 @@ Consider:
 - Ask for explanations when learning
 
 ### Don't
+
 - Assume context from previous conversations
 - Use vague terms like "better" or "improve"
 - Ask multiple unrelated questions at once
@@ -149,6 +162,7 @@ Consider:
 ## Common Scenarios
 
 ### "I need to understand this code"
+
 ```
 Explain what this [language] code does:
 [Code snippet]
@@ -161,6 +175,7 @@ Please explain at a [beginner/intermediate/advanced] level.
 ```
 
 ### "Something is broken"
+
 ```
 This [component] isn't working as expected.
 
@@ -179,6 +194,7 @@ Code:
 ```
 
 ### "I want to add a feature"
+
 ```
 Add a feature to [component] that allows users to [capability].
 
@@ -197,6 +213,7 @@ Definition of done:
 ```
 
 ### "I'm learning something new"
+
 ```
 I'm learning [topic] and need help with [specific concept].
 
@@ -215,15 +232,18 @@ Please explain with:
 ## Iterative Refinement
 
 ### First Prompt
+
 Start with a clear, focused request
 
 ### Follow-up Prompts
+
 - "Can you explain [specific part] in more detail?"
 - "How would this handle [edge case]?"
 - "What are the trade-offs of this approach?"
 - "Can you show an example of [specific scenario]?"
 
 ### Course Correction
+
 - "That's not quite what I meant. Let me clarify..."
 - "I need to add a constraint: [new requirement]"
 - "Let's focus on [specific aspect] first"
@@ -231,21 +251,25 @@ Start with a clear, focused request
 ## Anti-Patterns to Avoid
 
 ### The XY Problem
+
 - Don't ask about your attempted solution
 - Ask about your actual goal
 - Explain what you're trying to achieve
 
 ### Information Overload
+
 - Don't paste entire files
 - Extract relevant sections
 - Summarize when possible
 
 ### Assumption Dependency
+
 - Don't assume AI remembers context
 - Restate key information
 - Be explicit about requirements
 
 ### Vague Requests
+
 - "Make it better" → Specify what to improve
 - "Fix this" → Describe the problem
 - "Optimize" → Define optimization goals
@@ -266,15 +290,19 @@ Start with a clear, focused request
 ## Advanced Techniques
 
 ### Chain of Thought
+
 Ask the AI to "think step by step" for complex problems
 
 ### Role Assignment
+
 "Act as a [role] and help me with [task]"
 
 ### Comparative Analysis
+
 "Compare [approach A] vs [approach B] for [use case]"
 
 ### Constraint Exploration
+
 "What are the trade-offs of [approach]?"
 
 ## Remember

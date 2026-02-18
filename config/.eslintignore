@@ -5,7 +5,7 @@
 **/.next/
 **/out/
 **/assets
-**/README.md
-**/LICENSE.md
+**/*.md
+**/.github/instructions
 .eslintrc.json
 .eslintignore

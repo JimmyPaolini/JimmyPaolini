@@ -1,12 +1,15 @@
 # Kubernetes Deployment Best Practices
 
 ## Purpose
+
 Guidelines for creating and maintaining Kubernetes deployments, ensuring reliability, security, and operational excellence.
 
 ## Resource Configuration
 
 ### 1. Resource Limits and Requests
+
 Always specify both CPU and memory:
+
 ```yaml
 resources:
   requests:
@@ -18,12 +21,15 @@ resources:
 ```
 
 **Why:**
+
 - Prevents resource starvation
 - Enables proper scheduling
 - Protects cluster stability
 
 ### 2. Health Checks
+
 Implement all three probe types:
+
 ```yaml
 livenessProbe:
   httpGet:
@@ -48,6 +54,7 @@ startupProbe:
 ```
 
 ### 3. Replica Configuration
+
 ```yaml
 replicas: 3
 strategy:
@@ -58,6 +65,7 @@ strategy:
 ```
 
 **Best Practices:**
+
 - Run at least 3 replicas for HA
 - Use anti-affinity for distribution
 - Configure PodDisruptionBudgets
@@ -65,6 +73,7 @@ strategy:
 ## Security
 
 ### 1. Security Context
+
 ```yaml
 securityContext:
   runAsNonRoot: true
@@ -77,11 +86,13 @@ securityContext:
 ```
 
 ### 2. Network Policies
+
 - Implement least-privilege network access
 - Use namespace isolation
 - Define explicit ingress/egress rules
 
 ### 3. Secrets Management
+
 - Never commit secrets to version control
 - Use Kubernetes Secrets or external secret managers
 - Rotate secrets regularly
@@ -90,16 +101,19 @@ securityContext:
 ## Deployment Strategies
 
 ### Rolling Updates (Default)
+
 - Zero-downtime deployments
 - Gradual rollout
 - Easy rollback
 
 ### Blue-Green
+
 - For critical applications
 - Full validation before switch
 - Instant rollback capability
 
 ### Canary
+
 - Progressive traffic shift
 - Real-world testing
 - Risk mitigation
@@ -107,6 +121,7 @@ securityContext:
 ## Labels and Annotations
 
 ### Required Labels
+
 ```yaml
 metadata:
   labels:
@@ -117,6 +132,7 @@ metadata:
 ```
 
 ### Useful Annotations
+
 ```yaml
 metadata:
   annotations:
@@ -128,11 +144,13 @@ metadata:
 ## ConfigMaps and Secrets
 
 ### ConfigMaps
+
 - For non-sensitive configuration
 - Can be mounted as files or env vars
 - Support hot-reloading with tools
 
 ### Secrets
+
 - For sensitive data
 - Base64 encoded (not encrypted)
 - Consider external secrets operator
@@ -140,16 +158,19 @@ metadata:
 ## Monitoring and Logging
 
 ### Metrics
+
 - Expose Prometheus metrics
 - Include application-specific metrics
 - Monitor golden signals (latency, traffic, errors, saturation)
 
 ### Logging
+
 - Log to stdout/stderr
 - Use structured logging (JSON)
 - Include trace IDs for distributed tracing
 
 ### Alerts
+
 - Define SLOs and SLIs
 - Alert on symptoms, not causes
 - Implement escalation policies
@@ -157,6 +178,7 @@ metadata:
 ## Namespace Organization
 
 ### Best Practices
+
 - One namespace per environment (dev, staging, prod)
 - Use ResourceQuotas to prevent resource exhaustion
 - Implement LimitRanges for default resource constraints
@@ -164,11 +186,13 @@ metadata:
 ## Service Mesh Considerations
 
 ### When to Use Service Mesh
+
 - Complex microservices architecture
 - Need advanced traffic management
 - Require strong security (mTLS)
 
 ### Tools
+
 - Istio - Full-featured
 - Linkerd - Lightweight
 - Consul - Multi-cloud
@@ -176,6 +200,7 @@ metadata:
 ## Helm Charts
 
 ### Chart Structure
+
 ```
 mychart/
   Chart.yaml
@@ -188,6 +213,7 @@ mychart/
 ```
 
 ### Best Practices
+
 - Use values.yaml for configuration
 - Template everything that varies
 - Document all values

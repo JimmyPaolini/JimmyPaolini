@@ -243,15 +243,19 @@ npm run analyze
 ### Available Commands
 
 #### Linting
-- `npm run lint` - Run all linting checks (ESLint, Prettier, TypeScript)
+
+- `npm run lint` - Run all linting checks (ESLint and Prettier)
 - `npm run lint:eslint` - Run ESLint only
 - `npm run lint:prettier` - Check code formatting
-- `npm run lint:types` - Run TypeScript type checking
+- `npm run lint:types` - Run TypeScript type checking (if TS files exist)
+- `npm run lint:all` - Run all checks including TypeScript
 
 #### Formatting
+
 - `npm run format` - Auto-format code with Prettier
 
 #### Analysis
+
 - `npm run analyze` - Generate complexity and security reports
 - `npm run analyze:complexity` - Generate code complexity report
 - `npm run analyze:security` - Run security audit
@@ -281,8 +285,8 @@ This repository includes:
 - Import statements are automatically ordered alphabetically
 - Public functions and classes require JSDoc documentation
 
-### For more information
+### Documentation
 
-See [AGENTS.md](AGENTS.md) for detailed documentation on all development tools and workflows.
-
-See [.github/instructions/](.github/instructions/) for best practices and coding guidelines.
+- See [AGENTS.md](AGENTS.md) for detailed documentation on all development tools and workflows
+- See [.github/instructions/](.github/instructions/) for best practices and coding guidelines
+- See [documentation/planning/](documentation/planning/) for feature planning documents
