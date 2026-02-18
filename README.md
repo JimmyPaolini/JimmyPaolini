@@ -217,3 +217,72 @@
 [<img width="64" height="64" alt="stripe" src="assets/icons/stripe.png">](https://stripe.com)
 [<img width="64" height="64" alt="shopify" src="assets/icons/shopify.png">](https://www.shopify.com)
 [<img width="64" height="64" alt="azure" src="assets/icons/azure.png">](https://azure.microsoft.com/en-us)
+
+---
+
+## Development Workflow 🛠️
+
+This repository uses comprehensive static analysis tools to maintain code quality.
+
+### Quick Start
+
+```bash
+# Install dependencies
+cd config && npm install
+
+# Run all linting checks
+npm run lint
+
+# Format code
+npm run format
+
+# Run analysis
+npm run analyze
+```
+
+### Available Commands
+
+#### Linting
+- `npm run lint` - Run all linting checks (ESLint, Prettier, TypeScript)
+- `npm run lint:eslint` - Run ESLint only
+- `npm run lint:prettier` - Check code formatting
+- `npm run lint:types` - Run TypeScript type checking
+
+#### Formatting
+- `npm run format` - Auto-format code with Prettier
+
+#### Analysis
+- `npm run analyze` - Generate complexity and security reports
+- `npm run analyze:complexity` - Generate code complexity report
+- `npm run analyze:security` - Run security audit
+
+### Static Analysis Tools
+
+This repository includes:
+
+- **ESLint** - JavaScript/TypeScript linting with plugins for:
+  - TypeScript-specific rules
+  - Import/export validation and ordering
+  - JSDoc documentation linting
+  - Code complexity limits
+  - React best practices
+
+- **Prettier** - Code formatting for consistent style
+
+- **TypeScript Compiler** - Type checking without compilation
+
+- **npm audit** - Dependency vulnerability scanning
+
+### Code Quality Standards
+
+- Maximum cyclomatic complexity: 10
+- Maximum function depth: 4
+- Maximum lines per function: 50
+- Import statements are automatically ordered alphabetically
+- Public functions and classes require JSDoc documentation
+
+### For more information
+
+See [AGENTS.md](AGENTS.md) for detailed documentation on all development tools and workflows.
+
+See [.github/instructions/](.github/instructions/) for best practices and coding guidelines.

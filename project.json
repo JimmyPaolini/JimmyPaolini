@@ -13,7 +13,49 @@
     "lint": {
       "executor": "nx:run-commands",
       "options": {
-        "command": "echo 'No lint step defined'"
+        "command": "cd config && npm run lint"
+      }
+    },
+    "lint:eslint": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "cd config && npm run lint:eslint"
+      }
+    },
+    "lint:prettier": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "cd config && npm run lint:prettier"
+      }
+    },
+    "lint:types": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "cd config && npm run lint:types"
+      }
+    },
+    "format": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "cd config && npm run format"
+      }
+    },
+    "analyze": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "cd config && npm run analyze"
+      }
+    },
+    "analyze:complexity": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "cd config && npm run analyze:complexity"
+      }
+    },
+    "analyze:security": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "cd config && npm run analyze:security"
       }
     },
     "test": {

@@ -4,3 +4,7 @@
 **/node_modules
 **/dist
 **/*.env*
+
+# Static analysis outputs
+.eslint-report.json
+.npm-audit.json

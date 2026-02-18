@@ -1,8 +1,14 @@
 {
   "scripts": {
-    "lint": "eslint --no-error-on-unmatched-pattern --config config/.eslintrc.json --ignore-path config/.eslintignore * && prettier --check --config config/.prettierrc.json --ignore-path config/.prettierignore .",
-    "lint:watch": "nodemon -e ts --exec \"clear; yarn lint\"",
-    "format": "prettier --config config/.prettierrc.json --ignore-path config/.prettierignore ."
+    "lint": "npm run lint:eslint && npm run lint:prettier && npm run lint:types",
+    "lint:eslint": "eslint --no-error-on-unmatched-pattern --config config/.eslintrc.json --ignore-path config/.eslintignore *",
+    "lint:prettier": "prettier --check --config config/.prettierrc.json --ignore-path config/.prettierignore .",
+    "lint:types": "tsc --noEmit --project config/tsconfig.json",
+    "lint:watch": "nodemon -e ts --exec \"clear; npm run lint\"",
+    "format": "prettier --write --config config/.prettierrc.json --ignore-path config/.prettierignore .",
+    "analyze:complexity": "eslint --no-error-on-unmatched-pattern --config config/.eslintrc.json --ignore-path config/.eslintignore * --format json > .eslint-report.json || true",
+    "analyze:security": "npm audit --json > .npm-audit.json || true",
+    "analyze": "npm run analyze:complexity && npm run analyze:security && echo 'Analysis complete. Check .eslint-report.json and .npm-audit.json'"
   },
   "homepage": "https://github.com/JimmyPaolini",
   "name": "jimmypaolini",
@@ -12,9 +18,13 @@
   "version": "0.0.0",
   "license": "MIT",
   "devDependencies": {
-    "@typescript-esconfig/eslint-plugin": "^4.31.1",
-    "eslint": "^7.32.0",
-    "eslint-plugin-react": "^7.25.1",
-    "prettier": "^2.4.0"
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsdoc": "^48.0.0",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^3.2.0",
+    "typescript": "^5.3.0"
   }
 }
