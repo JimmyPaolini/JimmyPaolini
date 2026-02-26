@@ -1,17 +1,4 @@
 {
-  "rules": {
-    "no-extra-parens": ["off"],
-    "react/react-in-jsx-scope": ["off"],
-    "react/prop-types": ["off"],
-    // "@typescript-eslint/no-non-null-assertion": ["off"],
-    "@typescript-eslint/no-explicit-any": ["off"],
-    "@typescript-eslint/no-var-requires": ["off"]
-  },
-  "settings": {
-    "react": {
-      "version": "17"
-    }
-  },
   "env": {
     "browser": true,
     "es2021": true,
@@ -19,10 +6,9 @@
   },
   "extends": [
     "eslint:recommended",
-    "plugin:react/recommended",
-    "plugin:@typescript-eslint/recommended"
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react/recommended"
   ],
-  "plugins": ["react", "@typescript-eslint"],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaFeatures": {
@@ -30,5 +16,19 @@
     },
     "ecmaVersion": 12,
     "sourceType": "module"
+  },
+  "plugins": [ "@typescript-eslint","react"],
+  "rules": {
+    // "@typescript-eslint/no-non-null-assertion": ["off"],
+    "@typescript-eslint/no-explicit-any": ["off"],
+    "@typescript-eslint/no-var-requires": ["off"],
+    "no-extra-parens": ["off"],
+    "react/prop-types": ["off"],
+    "react/react-in-jsx-scope": ["off"]
+  },
+  "settings": {
+    "react": {
+      "version": "17"
+    }
   }
 }
