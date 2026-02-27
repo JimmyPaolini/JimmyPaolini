@@ -1,7 +1,7 @@
 {
-  "description": "Jimmy Paolini portfolio repository",
   "name": "jimmypaolini",
+  "description": "Jimmy Paolini portfolio repository",
+  "version": "0.0.0",
   "private": true,
-  "type": "module",
-  "version": "0.0.0"
+  "type": "module"
 }
