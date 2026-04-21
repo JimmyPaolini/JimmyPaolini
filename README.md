@@ -49,23 +49,28 @@
 [<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="perplexity" src="assets/icons/perplexity.png">](https://www.perplexity.ai)
 
-### Frontend 🖼️
+### Frameworks 🖼️
 
-[<img width="64" height="64" alt="react" src="assets/icons/react.png">](https://reactjs.org)
-[<img width="64" height="64" alt="remix" src="assets/icons/remix.png">](https://remix.run)
+[<img width="64" height="64" alt="tanstack" src="assets/icons/tanstack.png">](https://tanstack.com)
 [<img width="64" height="64" alt="nextjs" src="assets/icons/nextjs.png">](https://nextjs.org)
 [<img width="64" height="64" alt="react-router" src="assets/icons/react-router.png">](https://reactrouter.com)
+[<img width="64" height="64" alt="remix" src="assets/icons/remix.png">](https://remix.run)
+[<img width="64" height="64" alt="nestjs" src="assets/icons/nestjs.svg">](https://nestjs.com)
+[<img width="64" height="64" alt="feathersjs" src="assets/icons/feathersjs.svg">](https://feathersjs.com)
+[<img width="64" height="64" alt="jquery" src="assets/icons/jquery.svg">](https://jquery.com)
+
+### Frontend 🎨
+
+[<img width="64" height="64" alt="react" src="assets/icons/react.png">](https://reactjs.org)
 [<img width="64" height="64" alt="react-query" src="assets/icons/react-query.png">](https://react-query.tanstack.com)
-[<img width="64" height="64" alt="tanstack" src="assets/icons/tanstack.png">](https://tanstack.com)
 [<img width="64" height="64" alt="formik" src="assets/icons/formik.png">](https://formik.org)
 [<img width="64" height="64" alt="ag-grid" src="assets/icons/ag-grid.png">](https://www.ag-grid.com)
-[<img width="64" height="64" alt="rechart" src="assets/icons/rechart.png">](https://www.npmjs.com/package/recharts)
+[<img width="64" height="64" alt="rechart" src="assets/icons/rechart.png">](https://github.com/recharts/recharts)
 [<img width="64" height="64" alt="mobx" src="assets/icons/mobx.png">](https://mobx.js.org)
 [<img width="64" height="64" alt="mapbox" src="assets/icons/mapbox.png">](https://www.mapbox.com)
 [<img width="64" height="64" alt="maplibre" src="assets/icons/maplibre.svg">](https://maplibre.org)
-[<img width="64" height="64" alt="jquery" src="assets/icons/jquery.svg">](https://jquery.com)
 
-### Styles 🎨
+### Styles 💄
 
 [<img width="64" height="64" alt="tailwind" src="assets/icons/tailwind.png">](https://tailwindcss.com)
 [<img width="64" height="64" alt="shadcn" src="assets/icons/shadcn.png">](https://ui.shadcn.com)
@@ -95,7 +100,6 @@
 
 ### Backend 🌐
 
-[<img width="64" height="64" alt="nestjs" src="assets/icons/nestjs.svg">](https://nestjs.com)
 [<img height="64" alt="typeorm" src="assets/icons/typeorm.png">](https://typeorm.io)
 [<img width="64" height="64" alt="expressjs" src="assets/icons/expressjs.png">](https://expressjs.com)
 [<img width="64" alt="zod" src="assets/icons/zod.png">](https://zod.dev)
@@ -105,7 +109,6 @@
 [<img width="64" height="64" alt="ink" src="assets/icons/ink.png">](https://github.com/vadimdemedes/ink)
 [<img width="64" alt="prompts" src="assets/icons/prompts.png">](https://www.npmjs.com/package/prompts)
 [<img width="64" height="64" alt="bullmq" src="assets/icons/bullmq.ico">](https://bullmq.io)
-[<img width="64" height="64" alt="feathersjs" src="assets/icons/feathersjs.svg">](https://feathersjs.com)
 
 ### Runtimes & Packages 📦
 
@@ -119,7 +122,7 @@
 [<img width="64" height="64" alt="yarn" src="assets/icons/yarn.png">](https://yarnpkg.com)
 [<img height="32" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
 
-### Testing & Quality 🧪
+### Testing 🧪
 
 [<img width="64" height="64" alt="vitest" src="assets/icons/vitest.svg">](https://vitest.dev)
 [<img width="64" height="64" alt="jest" src="assets/icons/jest.png">](https://jestjs.io)
@@ -131,12 +134,12 @@
 ### Quality 🧹
 
 [<img width="64" height="64" alt="oxc" src="assets/icons/oxc.svg">](https://oxc.rs/docs/guide/what-is-oxc.html)
+[<img width="64" height="64" alt="knip" src="assets/icons/knip.svg">](https://knip.dev)
 [<img width="64" height="64" alt="biome" src="assets/icons/biome.svg">](https://biomejs.dev)
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
 [<img width="64" height="64" alt="stylelint" src="assets/icons/stylelint.svg">](https://stylelint.io)
 [<img width="64" height="64" alt="sherif" src="assets/icons/sherif.png">](https://github.com/QuiiBz/sherif)
-[<img width="64" height="64" alt="knip" src="assets/icons/knip.svg">](https://knip.dev)
 <!-- markdown-lint -->
 <!-- yaml-lint -->
 <!-- type-coverage -->
