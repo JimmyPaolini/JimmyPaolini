@@ -35,7 +35,6 @@
 [<img width="64" height="64" alt="searxng" src="assets/icons/searxng.svg">](https://docs.searxng.org)
 [<img width="64" height="64" alt="open-webui" src="assets/icons/open-webui.png">](https://openwebui.com)
 [<img width="64" height="64" alt="toon" src="assets/icons/toon.svg">](https://github.com/toon-format/toon)
-[<img width="64" height="64" alt="huggingface" src="assets/icons/huggingface.png">](https://huggingface.co)
 [<img width="64" height="64" alt="langflow" src="assets/icons/langflow.png">](https://www.langflow.org)
 
 ### Large Language Models 🦜
@@ -43,6 +42,7 @@
 [<img width="64" height="64" alt="gemma" src="assets/icons/gemma.png">](https://ollama.com/library/gemma4)
 [<img width="64" height="64" alt="qwen" src="assets/icons/qwen.png">](https://ollama.com/library/qwen3.5)
 [<img width="64" height="64" alt="claude" src="assets/icons/claude.png">](https://claude.ai)
+[<img width="64" height="64" alt="huggingface" src="assets/icons/huggingface.png">](https://huggingface.co)
 [<img width="64" height="64" alt="gemini" src="assets/icons/gemini.png">](https://gemini.google.com)
 [<img width="64" height="64" alt="openai" src="assets/icons/openai.png">](https://openai.com)
 [<img width="64" height="64" alt="vertex-ai" src="assets/icons/vertex-ai.png">](https://cloud.google.com/vertex-ai)
@@ -59,7 +59,7 @@
 [<img width="64" height="64" alt="tanstack" src="assets/icons/tanstack.png">](https://tanstack.com)
 [<img width="64" height="64" alt="formik" src="assets/icons/formik.png">](https://formik.org)
 [<img width="64" height="64" alt="ag-grid" src="assets/icons/ag-grid.png">](https://www.ag-grid.com)
-<a href="https://www.npmjs.com/package/recharts" style="font-size: 56px; text-decoration: none;" alt="recharts">📊</a>
+[<img width="64" height="64" alt="rechart" src="assets/icons/rechart.png">](https://www.npmjs.com/package/recharts)
 [<img width="64" height="64" alt="mobx" src="assets/icons/mobx.png">](https://mobx.js.org)
 [<img width="64" height="64" alt="mapbox" src="assets/icons/mapbox.png">](https://www.mapbox.com)
 [<img width="64" height="64" alt="maplibre" src="assets/icons/maplibre.svg">](https://maplibre.org)
@@ -125,14 +125,17 @@
 [<img width="64" height="64" alt="jest" src="assets/icons/jest.png">](https://jestjs.io)
 [<img width="64" height="64" alt="react-testing-library" src="assets/icons/react-testing-library.png">](https://testing-library.com/docs/react-testing-library/intro)
 [<img width="64" height="64" alt="fakerjs" src="assets/icons/fakerjs.svg">](https://fakerjs.dev)
+[<img width="64" height="64" alt="storybook" src="assets/icons/storybook.png">](https://storybook.js.org)
+[<img width="64" height="64" alt="cypress" src="assets/icons/cypress.png">](https://www.cypress.io/how-it-works)
+
+### Quality 🧹
+
 [<img width="64" height="64" alt="oxc" src="assets/icons/oxc.svg">](https://oxc.rs/docs/guide/what-is-oxc.html)
 [<img width="64" height="64" alt="biome" src="assets/icons/biome.svg">](https://biomejs.dev)
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
 [<img width="64" height="64" alt="stylelint" src="assets/icons/stylelint.svg">](https://stylelint.io)
 [<img width="64" height="64" alt="sherif" src="assets/icons/sherif.png">](https://github.com/QuiiBz/sherif)
-[<img width="64" height="64" alt="storybook" src="assets/icons/storybook.png">](https://storybook.js.org)
-[<img width="64" height="64" alt="cypress" src="assets/icons/cypress.png">](https://www.cypress.io/how-it-works)
 [<img width="64" height="64" alt="knip" src="assets/icons/knip.svg">](https://knip.dev)
 <!-- markdown-lint -->
 <!-- yaml-lint -->
