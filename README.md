@@ -12,7 +12,7 @@
 
 ## Technology I Know 📖
 
-### Languages 🦜
+### Programming Languages 🦜
 
 [<img width="64" height="64" alt="typescript" src="assets/icons/typescript.png">](https://www.typescriptlang.org)
 [<img width="64" height="64" alt="javascript" src="assets/icons/javascript.png">](https://www.javascript.com)
@@ -23,20 +23,30 @@
 [<img width="64" height="64" alt="c" src="assets/icons/c.png">](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [<img width="64" height="64" alt="ocaml" src="assets/icons/ocaml.png">](https://ocaml.org)
 
-### Artificial Intelligence 🧠
+### Agent Harnesses 🤖
 
 [<img width="64" height="64" alt="langchain" src="assets/icons/langchain.svg">](https://www.langchain.com)
 [<img width="64" height="64" alt="langgraph" src="assets/icons/langgraph.svg">](https://www.langchain.com/langgraph)
 [<img width="64" height="64" alt="langsmith" src="assets/icons/langsmith.svg">](https://www.langchain.com/langsmith)
 [<img width="64" height="64" alt="ollama" src="assets/icons/ollama.png">](https://ollama.com)
+[<img width="64" height="64" alt="model-context-protocol" src="assets/icons/model-context-protocol.svg">](https://modelcontextprotocol.io/docs/getting-started/intro)
+[<img width="64" height="64" alt="agent-skills" src="assets/icons/agent-skills.svg">](https://agentskills.io/home)
+[<img width="64" height="64" alt="trafilatura" src="assets/icons/trafilatura.png">](https://trafilatura.readthedocs.io/en/latest)
+[<img width="64" height="64" alt="searxng" src="assets/icons/searxng.svg">](https://docs.searxng.org)
+[<img width="64" height="64" alt="open-webui" src="assets/icons/open-webui.png">](https://openwebui.com)
 [<img width="64" height="64" alt="toon" src="assets/icons/toon.svg">](https://github.com/toon-format/toon)
 [<img width="64" height="64" alt="huggingface" src="assets/icons/huggingface.png">](https://huggingface.co)
 [<img width="64" height="64" alt="langflow" src="assets/icons/langflow.png">](https://www.langflow.org)
+
+### Large Language Models 🦜
+
+[<img width="64" height="64" alt="gemma" src="assets/icons/gemma.png">](https://ollama.com/library/gemma4)
+[<img width="64" height="64" alt="qwen" src="assets/icons/qwen.png">](https://ollama.com/library/qwen3.5)
 [<img width="64" height="64" alt="claude" src="assets/icons/claude.png">](https://claude.ai)
-[<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
-[<img width="64" height="64" alt="vertex-ai" src="assets/icons/vertex-ai.png">](https://cloud.google.com/vertex-ai)
 [<img width="64" height="64" alt="gemini" src="assets/icons/gemini.png">](https://gemini.google.com)
 [<img width="64" height="64" alt="openai" src="assets/icons/openai.png">](https://openai.com)
+[<img width="64" height="64" alt="vertex-ai" src="assets/icons/vertex-ai.png">](https://cloud.google.com/vertex-ai)
+[<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="perplexity" src="assets/icons/perplexity.png">](https://www.perplexity.ai)
 
 ### Frontend 🖼️
@@ -54,15 +64,12 @@
 [<img width="64" height="64" alt="mapbox" src="assets/icons/mapbox.png">](https://www.mapbox.com)
 [<img width="64" height="64" alt="maplibre" src="assets/icons/maplibre.svg">](https://maplibre.org)
 [<img width="64" height="64" alt="jquery" src="assets/icons/jquery.svg">](https://jquery.com)
-[<img width="64" height="64" alt="vite" src="assets/icons/vite.png">](https://vite.dev)
-[<img width="64" height="64" alt="webpack" src="assets/icons/webpack.png">](https://webpack.js.org)
-[<img width="64" height="64" alt="babel" src="assets/icons/babel.png">](https://babeljs.io)
 
 ### Styles 🎨
 
 [<img width="64" height="64" alt="tailwind" src="assets/icons/tailwind.png">](https://tailwindcss.com)
 [<img width="64" height="64" alt="shadcn" src="assets/icons/shadcn.png">](https://ui.shadcn.com)
-[<img width="64" height="64" alt="lucide" src="assets/icons/lucide.svg">](https://lucide.dev/icons/)
+[<img width="64" height="64" alt="lucide" src="assets/icons/lucide.svg">](https://lucide.dev/icons)
 [<img width="64" height="64" alt="headlessui" src="assets/icons/headlessui.png">](https://headlessui.com)
 [<img width="64" height="64" alt="materialui" src="assets/icons/materialui.png">](https://material-ui.com)
 [<img width="64" height="64" alt="emotion" src="assets/icons/emotion.png">](https://emotion.sh)
@@ -73,6 +80,7 @@
 ### Authentication & Authorization 🛂
 
 [<img width="64" height="64" alt="jwt" src="assets/icons/jwt.png">](https://jwt.io)
+[<img width="64" height="64" alt="passport" src="assets/icons/passport.png">](https://www.passportjs.org)
 [<img width="64" height="64" alt="oauth" src="assets/icons/oauth.png">](https://oauth.net)
 [<img width="64" height="64" alt="auth0" src="assets/icons/auth0.png">](https://auth0.com)
 
@@ -85,25 +93,68 @@
 [<img width="64" height="64" alt="protobuf" src="assets/icons/protobuf.png">](https://developers.google.com/protocol-buffers)
 [<img width="64" height="64" alt="json" src="assets/icons/json.svg">](https://www.json.org/json-en.html)
 
-### Backend 🧭
+### Backend 🌐
+
+[<img width="64" height="64" alt="nestjs" src="assets/icons/nestjs.svg">](https://nestjs.com)
+[<img height="64" alt="typeorm" src="assets/icons/typeorm.png">](https://typeorm.io)
+[<img width="64" height="64" alt="expressjs" src="assets/icons/expressjs.png">](https://expressjs.com)
+[<img width="64" alt="zod" src="assets/icons/zod.png">](https://zod.dev)
+[<img width="64" alt="lodash" src="assets/icons/lodash.png">](https://lodash.com)
+[<img width="64" alt="moment" src="assets/icons/moment.svg">](https://momentjs.com)
+[<img width="64" height="64" alt="nest-commander" src="assets/icons/nest-commander.svg">](https://nest-commander.jaymcdoniel.dev/en/introduction/intro)
+[<img width="64" height="64" alt="ink" src="assets/icons/ink.png">](https://github.com/vadimdemedes/ink)
+[<img width="64" alt="prompts" src="assets/icons/prompts.png">](https://www.npmjs.com/package/prompts)
+[<img width="64" height="64" alt="bullmq" src="assets/icons/bullmq.ico">](https://bullmq.io)
+[<img width="64" height="64" alt="feathersjs" src="assets/icons/feathersjs.svg">](https://feathersjs.com)
+
+### Runtimes & Packages 📦
 
 [<img width="64" height="64" alt="nodejs" src="assets/icons/nodejs.png">](https://nodejs.org)
 [<img width="64" height="64" alt="deno" src="assets/icons/deno.png">](https://deno.land)
-[<img width="64" height="64" alt="nestjs" src="assets/icons/nestjs.svg">](https://nestjs.com)
-[<img width="64" height="64" alt="expressjs" src="assets/icons/expressjs.png">](https://expressjs.com)
-[<img width="64" height="64" alt="feathersjs" src="assets/icons/feathersjs.svg">](https://feathersjs.com)
-[<img height="64" alt="typeorm" src="assets/icons/typeorm.png">](https://typeorm.io)
+[<img width="64" height="64" alt="vite" src="assets/icons/vite.svg">](https://vite.dev)
+[<img width="64" height="64" alt="webpack" src="assets/icons/webpack.png">](https://webpack.js.org)
+[<img width="64" height="64" alt="babel" src="assets/icons/babel.png">](https://babeljs.io)
+[<img width="64" height="64" alt="syncpack" src="assets/icons/syncpack.svg">](https://syncpack.dev)
+[<img height="64" alt="pnpm" src="assets/icons/pnpm.png">](https://pnpm.io)
+[<img width="64" height="64" alt="yarn" src="assets/icons/yarn.png">](https://yarnpkg.com)
+[<img height="32" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
+
+### Testing & Quality 🧪
+
+[<img width="64" height="64" alt="vitest" src="assets/icons/vitest.svg">](https://vitest.dev)
+[<img width="64" height="64" alt="jest" src="assets/icons/jest.png">](https://jestjs.io)
+[<img width="64" height="64" alt="react-testing-library" src="assets/icons/react-testing-library.png">](https://testing-library.com/docs/react-testing-library/intro)
+[<img width="64" height="64" alt="fakerjs" src="assets/icons/fakerjs.svg">](https://fakerjs.dev)
+[<img width="64" height="64" alt="oxc" src="assets/icons/oxc.svg">](https://oxc.rs/docs/guide/what-is-oxc.html)
+[<img width="64" height="64" alt="biome" src="assets/icons/biome.svg">](https://biomejs.dev)
+[<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
+[<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
+[<img width="64" height="64" alt="stylelint" src="assets/icons/stylelint.svg">](https://stylelint.io)
+[<img width="64" height="64" alt="sherif" src="assets/icons/sherif.png">](https://github.com/QuiiBz/sherif)
+[<img width="64" height="64" alt="storybook" src="assets/icons/storybook.png">](https://storybook.js.org)
+[<img width="64" height="64" alt="cypress" src="assets/icons/cypress.png">](https://www.cypress.io/how-it-works)
+[<img width="64" height="64" alt="knip" src="assets/icons/knip.svg">](https://knip.dev)
+<!-- markdown-lint -->
+<!-- yaml-lint -->
+<!-- type-coverage -->
+
+### Python 🐍
+
 [<img width="64" height="64" alt="django" src="assets/icons/django.png">](https://www.djangoproject.com)
-[<img width="64" height="64" alt="bullmq" src="assets/icons/bullmq.ico">](https://bullmq.io)
+[<img width="64" height="64" alt="prefect" src="assets/icons/prefect.svg">](https://www.prefect.io)
+[<img width="64" height="64" alt="pydantic" src="assets/icons/pydantic.png">](https://docs.pydantic.dev)
+[<img width="64" height="64" alt="pytest" src="assets/icons/pytest.svg">](https://docs.pytest.org/en/stable)
 [<img height="64" alt="jupyter" src="assets/icons/jupyter.png">](https://jupyter.org)
-[<img width="64" alt="lodash" src="assets/icons/lodash.png">](https://lodash.com)
-[<img width="64" alt="zod" src="assets/icons/zod.png">](https://zod.dev)
-[<img width="64" alt="prompts" src="assets/icons/prompts.png">](https://www.npmjs.com/package/prompts)
+[<img height="64" alt="uv" src="assets/icons/uv.svg">](https://github.com/astral-sh/uv)
+[<img height="64" alt="ruff" src="assets/icons/ruff.svg">](https://github.com/astral-sh/ruff)
+[<img height="64" alt="ty" src="assets/icons/ty.svg">](https://github.com/astral-sh/ty)
+[<img height="64" alt="pyright" src="assets/icons/pyright.png">](https://microsoft.github.io/pyright)
 
 ### Databases 🗄️
 
 [<img width="64" height="64" alt="postgres" src="assets/icons/postgres.png">](https://www.postgresql.org)
 [<img width="64" height="64" alt="mysql" src="assets/icons/mysql.png">](https://www.mysql.com)
+[<img width="64" height="64" alt="sqlite" src="assets/icons/sqlite.png">](https://sqlite.org)
 [<img width="64" height="64" alt="mongodb" src="assets/icons/mongodb.png">](https://www.mongodb.com)
 [<img width="64" height="64" alt="redis" src="assets/icons/redis.svg">](https://redis.io)
 [<img width="64" height="64" alt="google-bigquery" src="assets/icons/google-bigquery.png">](https://cloud.google.com/bigquery?hl=en)
@@ -118,8 +169,10 @@
 [<img width="64" height="64" alt="docker" src="assets/icons/docker.png">](https://www.docker.com)
 [<img width="64" height="64" alt="helm" src="assets/icons/helm.png">](https://helm.sh)
 [<img width="64" height="64" alt="terraform" src="assets/icons/terraform.svg">](https://developer.hashicorp.com/terraform)
+[<img width="64" height="64" alt="nginx" src="assets/icons/nginx.png">](https://www.nginx.com)
 [<img width="64" height="64" alt="github-actions" src="assets/icons/github-actions.png">](https://github.com/features/actions)
 [<img width="64" height="64" alt="nx" src="assets/icons/nx.png">](https://nx.dev)
+[<img width="64" height="64" alt="trivy" src="assets/icons/trivy.png">](https://trivy.dev)
 [<img width="64" height="64" alt="bitnami" src="assets/icons/bitnami.png">](https://bitnami.com/stacks/helm)
 [<img width="64" height="64" alt="serverless" src="assets/icons/serverless.png">](https://www.serverless.com)
 
@@ -135,78 +188,68 @@
 ### Providers ☁️
 
 [<img width="64" height="64" alt="supabase" src="assets/icons/supabase.png">](https://supabase.com)
-[<img width="64" height="64" alt="prefect" src="assets/icons/prefect.svg">](https://www.prefect.io)
 [<img width="64" height="64" alt="google-cloud-platform" src="assets/icons/google-cloud-platform.png">](https://cloud.google.com)
 [<img width="64" height="64" alt="aws" src="assets/icons/aws.png">](https://aws.amazon.com)
 [<img width="64" height="64" alt="cloudflare" src="assets/icons/cloudflare.png">](https://www.cloudflare.com)
 [<img width="64" height="64" alt="linode" src="assets/icons/linode.png">](https://www.linode.com)
-[<img width="64" height="64" alt="nginx" src="assets/icons/nginx.png">](https://www.nginx.com)
 
 ### Shells 🐚
 
-[<img width="64" height="64" alt="zsh" src="assets/icons/zsh.png">](https://www.zsh.org/)
+[<img width="64" height="64" alt="zsh" src="assets/icons/zsh.png">](https://www.zsh.org)
 [<img width="64" height="64" alt="bash" src="assets/icons/bash.png">](https://www.zsh.org)
 [<img width="64" height="64" alt="fish" src="assets/icons/fish.png">](https://fishshell.com)
-
-### Testing 🧪
-
-[<img width="64" height="64" alt="react-testing-library" src="assets/icons/react-testing-library.png">](https://testing-library.com/docs/react-testing-library/intro)
-[<img width="64" height="64" alt="vitest" src="assets/icons/vitest.svg">](https://vitest.dev)
-[<img width="64" height="64" alt="jest" src="assets/icons/jest.png">](https://jestjs.io)
-[<img width="64" height="64" alt="fakerjs" src="assets/icons/fakerjs.svg">](https://fakerjs.dev)
-[<img width="64" height="64" alt="storybook" src="assets/icons/storybook.png">](https://storybook.js.org)
-[<img width="64" height="64" alt="cypress" src="assets/icons/cypress.png">](https://www.cypress.io/how-it-works)
-
-<!-- Playwright -->
-
-### Package Managers 📦
-
-[<img height="64" alt="pnpm" src="assets/icons/pnpm.png">](https://pnpm.io)
-[<img width="64" height="64" alt="yarn" src="assets/icons/yarn.png">](https://yarnpkg.com)
-[<img height="32" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
 
 ### Tools 🛠️
 
 [<img width="64" height="64" alt="git" src="assets/icons/git.png">](https://git-scm.com)
-[<img width="64" height="64" alt="raycast" src="assets/icons/raycast.png">](https://www.raycast.com)
-[<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
-[<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
+[<img width="64" height="64" alt="homebrew" src="assets/icons/homebrew.png">](https://brew.sh)
+[<img width="64" height="64" alt="semantic-release" src="assets/icons/semantic-release.png">](https://github.com/semantic-release/semantic-release)
+[<img width="64" height="64" alt="conventional-commits" src="assets/icons/conventional-commits.png">](https://www.conventionalcommits.org/en/v1.0.0)
+[<img width="64" height="64" alt="commitlint" src="assets/icons/commitlint.png">](https://commitlint.js.org)
+[<img width="64" height="64" alt="husky" src="assets/icons/husky.png">](https://typicode.github.io/husky)
+[<img width="64" height="64" alt="lint-staged" src="assets/icons/lint-staged.png">](https://github.com/lint-staged/lint-staged)
 [<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com)
 [<img width="64" height="64" alt="stringcase" src="assets/icons/stringcase.svg">](https://stringcase.org/cases)
 
 ### Services 🤲
 
 [<img width="64" height="64" alt="github" src="assets/icons/github.png">](https://github.com/JimmyPaolini/Lexico)
+[<img width="64" height="64" alt="wikipedia" src="assets/icons/wikipedia.png">](https://www.wikipedia.org/)
+[<img width="64" height="64" alt="stackoverflow" src="assets/icons/stackoverflow.png">](https://stackoverflow.com)
 [<img width="64" height="64" alt="loom" src="assets/icons/loom.svg">](https://www.loom.com)
+[<img width="64" height="64" alt="slack" src="assets/icons/slack.png">](https://slack.com)
 [<img width="64" height="64" alt="jira" src="assets/icons/jira.svg">](https://www.atlassian.com/software/jira)
 [<img width="64" height="64" alt="confluence" src="assets/icons/confluence.svg">](https://www.atlassian.com/software/confluence)
 [<img width="64" height="64" alt="atlassian" src="assets/icons/atlassian.svg">](https://www.atlassian.com)
 [<img width="64" height="64" alt="sendgrid" src="assets/icons/sendgrid.png">](https://sendgrid.com)
-[<img width="64" height="64" alt="slack" src="assets/icons/slack.png">](https://slack.com)
-[<img width="64" height="64" alt="stackoverflow" src="assets/icons/stackoverflow.png">](https://stackoverflow.com)
 
 ### Applications 🎪
 
 [<img width="64" height="64" alt="vscode" src="assets/icons/vscode.png">](https://code.visualstudio.com)
 [<img width="64" height="64" alt="figma" src="assets/icons/figma.png">](https://www.figma.com)
+[<img width="64" height="64" alt="raycast" src="assets/icons/raycast.png">](https://www.raycast.com)
+[<img width="64" height="64" alt="stats" src="assets/icons/stats.png">](https://mac-stats.com/)
 [<img width="64" height="64" alt="notion" src="assets/icons/notion.png">](https://www.notion.so)
 [<img width="64" height="64" alt="postman" src="assets/icons/postman.png">](https://www.postman.com)
+[<img width="64" height="64" alt="terminal" src="assets/icons/terminal.png">](https://support.apple.com/guide/terminal/welcome/mac)
 [<img width="64" height="64" alt="dbeaver" src="assets/icons/dbeaver.png">](https://dbeaver.io)
 [<img width="64" height="64" alt="mysql-workbench" src="assets/icons/mysql-workbench.png">](https://www.mysql.com/products/workbench)
 [<img width="64" height="64" alt="intellij" src="assets/icons/intellij.png">](https://www.jetbrains.com/idea)
 [<img width="64" height="64" alt="musescore" src="assets/icons/musescore.png">](https://musescore.org)
 [<img width="64" height="64" alt="finale" src="assets/icons/finale.png">](https://www.finalemusic.com)
 
-## Technology I Want To Know 🌠
+## Technology to Learn 🌠
 
-[<img width="64" height="64" alt="sentence-transformers" src="assets/icons/sentence-transformers.png">](https://sbert.net/)
+[<img width="64" height="64" alt="sentence-transformers" src="assets/icons/sentence-transformers.png">](https://sbert.net)
 [<img height="64" alt="react-native" src="assets/icons/react-native.png">](https://reactnative.dev)
 [<img width="64" height="64" alt="expo" src="assets/icons/expo.svg">](https://expo.dev)
 [<img width="64" height="64" alt="fastapi" src="assets/icons/fastapi.webp">](https://fastapi.tiangolo.com)
-[<img width="64" height="64" alt="pydantic" src="assets/icons/pydantic.png">](https://docs.pydantic.dev)
-[<img width="64" height="64" alt="poetry" src="assets/icons/poetry.png">](https://python-poetry.org)
+[<img width="64" height="64" alt="pandas" src="assets/icons/pandas.png">](https://pandas.pydata.org)
+[<img width="64" height="64" alt="playwright" src="assets/icons/playwright.svg">](https://playwright.dev)
+<!-- [<img width="64" height="64" alt="poetry" src="assets/icons/poetry.png">](https://python-poetry.org) -->
 
 [<img width="64" height="64" alt="minikube" src="assets/icons/minikube.svg">](https://minikube.sigs.k8s.io/docs)
+[<img height="64" alt="terraform-docs" src="assets/icons/terraform-docs.png">](https://terraform-docs.io)
 [<img width="64" height="64" alt="electron" src="assets/icons/electron.png">](https://www.electronjs.org)
 [<img width="64" height="64" alt="fastify" src="assets/icons/fastify.png">](https://www.fastify.io)
 [<img width="64" height="64" alt="linux" src="assets/icons/linux.png">](https://www.linux.org)
