@@ -110,17 +110,20 @@
 [<img width="64" alt="prompts" src="assets/icons/prompts.png">](https://www.npmjs.com/package/prompts)
 [<img width="64" height="64" alt="bullmq" src="assets/icons/bullmq.ico">](https://bullmq.io)
 
-### Runtimes & Packages 📦
+### Runtimes & Bundles 🎁
 
 [<img width="64" height="64" alt="nodejs" src="assets/icons/nodejs.png">](https://nodejs.org)
 [<img width="64" height="64" alt="deno" src="assets/icons/deno.png">](https://deno.land)
 [<img width="64" height="64" alt="vite" src="assets/icons/vite.svg">](https://vite.dev)
 [<img width="64" height="64" alt="webpack" src="assets/icons/webpack.png">](https://webpack.js.org)
 [<img width="64" height="64" alt="babel" src="assets/icons/babel.png">](https://babeljs.io)
-[<img width="64" height="64" alt="syncpack" src="assets/icons/syncpack.svg">](https://syncpack.dev)
+
+### Packages 📦
+
 [<img height="64" alt="pnpm" src="assets/icons/pnpm.png">](https://pnpm.io)
 [<img width="64" height="64" alt="yarn" src="assets/icons/yarn.png">](https://yarnpkg.com)
-[<img height="32" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
+[<img height="48" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
+[<img height="48" alt="jsr" src="assets/icons/jsr.png">](https://jsr.io)
 
 ### Testing 🧪
 
@@ -138,9 +141,10 @@
 [<img width="64" height="64" alt="biome" src="assets/icons/biome.svg">](https://biomejs.dev)
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
+[<img width="64" height="64" alt="markdownlint" src="assets/icons/markdownlint.png">](https://github.com/davidanson/markdownlint)
 [<img width="64" height="64" alt="stylelint" src="assets/icons/stylelint.svg">](https://stylelint.io)
 [<img width="64" height="64" alt="sherif" src="assets/icons/sherif.png">](https://github.com/QuiiBz/sherif)
-<!-- markdown-lint -->
+[<img width="64" height="64" alt="cspell" src="assets/icons/cspell.png">](https://cspell.org)
 <!-- yaml-lint -->
 <!-- type-coverage -->
 
@@ -178,9 +182,16 @@
 [<img width="64" height="64" alt="nginx" src="assets/icons/nginx.png">](https://www.nginx.com)
 [<img width="64" height="64" alt="github-actions" src="assets/icons/github-actions.png">](https://github.com/features/actions)
 [<img width="64" height="64" alt="nx" src="assets/icons/nx.png">](https://nx.dev)
-[<img width="64" height="64" alt="trivy" src="assets/icons/trivy.png">](https://trivy.dev)
 [<img width="64" height="64" alt="bitnami" src="assets/icons/bitnami.png">](https://bitnami.com/stacks/helm)
 [<img width="64" height="64" alt="serverless" src="assets/icons/serverless.png">](https://www.serverless.com)
+
+### Security 🔐
+
+[<img width="64" height="64" alt="gitguardian" src="assets/icons/gitguardian.png">](https://www.gitguardian.com)
+[<img width="64" height="64" alt="trivy" src="assets/icons/trivy.png">](https://trivy.dev)
+[<img width="64" height="64" alt="bandit" src="assets/icons/bandit.png">](https://github.com/PyCQA/bandit)
+[<img height="64" alt="syncpack" src="assets/icons/syncpack.svg">](https://syncpack.dev)
+[<img width="64" height="64" alt="gitleaks" src="assets/icons/gitleaks.png">](https://github.com/gitleaks/gitleaks)
 
 ### Observability 👁️
 
@@ -247,6 +258,7 @@
 ## Technology to Learn 🌠
 
 [<img width="64" height="64" alt="sentence-transformers" src="assets/icons/sentence-transformers.png">](https://sbert.net)
+[<img width="64" height="64" alt="fallow" src="assets/icons/fallow.svg">](https://docs.fallow.tools)
 [<img height="64" alt="react-native" src="assets/icons/react-native.png">](https://reactnative.dev)
 [<img width="64" height="64" alt="expo" src="assets/icons/expo.svg">](https://expo.dev)
 [<img width="64" height="64" alt="fastapi" src="assets/icons/fastapi.webp">](https://fastapi.tiangolo.com)
