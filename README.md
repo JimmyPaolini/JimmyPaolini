@@ -248,11 +248,12 @@
 [<img width="64" height="64" alt="stats" src="assets/icons/stats.png">](https://mac-stats.com/)
 [<img width="64" height="64" alt="notion" src="assets/icons/notion.png">](https://www.notion.so)
 [<img width="64" height="64" alt="postman" src="assets/icons/postman.png">](https://www.postman.com)
+[<img width="64" height="64" alt="linear" src="assets/icons/linear.svg">](https://linear.app)
 [<img width="64" height="64" alt="terminal" src="assets/icons/terminal.png">](https://support.apple.com/guide/terminal/welcome/mac)
 [<img width="64" height="64" alt="dbeaver" src="assets/icons/dbeaver.png">](https://dbeaver.io)
 [<img width="64" height="64" alt="mysql-workbench" src="assets/icons/mysql-workbench.png">](https://www.mysql.com/products/workbench)
 [<img width="64" height="64" alt="intellij" src="assets/icons/intellij.png">](https://www.jetbrains.com/idea)
-[<img width="64" height="64" alt="musescore" src="assets/icons/musescore.png">](https://musescore.org)
+[<img width="64" height="64" alt="musescore" src="assets/icons/musescore.svg">](https://musescore.org)
 [<img width="64" height="64" alt="finale" src="assets/icons/finale.png">](https://www.finalemusic.com)
 
 ## Technology to Learn 🌠
@@ -264,6 +265,7 @@
 [<img width="64" height="64" alt="fastapi" src="assets/icons/fastapi.webp">](https://fastapi.tiangolo.com)
 [<img width="64" height="64" alt="pandas" src="assets/icons/pandas.png">](https://pandas.pydata.org)
 [<img width="64" height="64" alt="playwright" src="assets/icons/playwright.svg">](https://playwright.dev)
+[<img width="64" height="64" alt="rxjs" src="assets/icons/rxjs.png">](https://rxjs.dev)
 <!-- [<img width="64" height="64" alt="poetry" src="assets/icons/poetry.png">](https://python-poetry.org) -->
 
 [<img width="64" height="64" alt="minikube" src="assets/icons/minikube.svg">](https://minikube.sigs.k8s.io/docs)
