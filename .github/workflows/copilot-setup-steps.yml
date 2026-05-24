@@ -19,6 +19,9 @@ jobs:
         permissions:
             contents: read
 
+        env:
+            GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+
         steps:
             - name: Checkout code
               uses: actions/checkout@v4
@@ -29,6 +32,7 @@ jobs:
                   node-version: lts/*
 
             - name: Configure GPG signing
+              if: env.GPG_PRIVATE_KEY != ''
               uses: crazy-max/ghaction-import-gpg@v6
               with:
                   gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
