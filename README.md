@@ -213,7 +213,7 @@
 ### Shells 🐚
 
 [<img width="64" height="64" alt="zsh" src="assets/icons/zsh.png">](https://www.zsh.org)
-[<img width="64" height="64" alt="bash" src="assets/icons/bash.png">](https://www.zsh.org)
+[<img width="64" height="64" alt="bash" src="assets/icons/bash.png">](https://www.gnu.org/software/bash)
 [<img width="64" height="64" alt="fish" src="assets/icons/fish.png">](https://fishshell.com)
 
 ### Tools 🛠️

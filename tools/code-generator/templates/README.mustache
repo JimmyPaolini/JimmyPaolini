@@ -1,0 +1,32 @@
+# {{name}}
+
+## Projects, Experience, Education
+
+{{#projects}}
+[<img {{{imgAttrs}}} alt="{{alt}}" src="{{{src}}}">]({{{href}}})
+{{/projects}}
+
+## Technology I Know 📖
+
+{{#knowledgeSections}}
+### {{{title}}}
+
+{{#items}}
+[<img {{{imgAttrs}}} alt="{{alt}}" src="{{{src}}}">]({{{href}}})
+{{/items}}
+{{#trailingContent}}
+{{{trailingContent}}}
+{{/trailingContent}}
+
+{{/knowledgeSections}}
+## Technology to Learn 🌠
+
+{{#learnGroups}}
+{{#items}}
+[<img {{{imgAttrs}}} alt="{{alt}}" src="{{{src}}}">]({{{href}}})
+{{/items}}
+{{#trailingContent}}
+{{{trailingContent}}}
+{{/trailingContent}}
+
+{{/learnGroups}}

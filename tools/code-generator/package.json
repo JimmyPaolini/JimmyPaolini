@@ -1,0 +1,17 @@
+{
+  "name": "@jimmypaolini/code-generator",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "tsx src/generate.ts"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/mustache": "^4.2.5",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "name": "Jimmy Paolini",
+  "projects": [
+    { "alt": "lexico", "src": "assets/icons/lexico.png", "href": "https://www.lexicolatin.com", "width": 64, "height": 64 },
+    { "alt": "shiftsmart", "src": "assets/icons/shiftsmart.png", "href": "https://shiftsmart.com", "width": 64, "height": 64 },
+    { "alt": "joor", "src": "assets/icons/joor.png", "href": "https://www.joor.com", "width": 64, "height": 64 },
+    { "alt": "comcast", "src": "assets/icons/comcast.png", "href": "https://corporate.comcast.com", "width": 64, "height": 64 },
+    { "alt": "upenn", "src": "assets/icons/upenn.png", "href": "https://www.upenn.edu", "width": 64, "height": 64 },
+    { "alt": "pc", "src": "assets/icons/pc.png", "href": "https://www.penncharter.com", "width": 64, "height": 64 },
+    { "alt": "linkedin", "src": "assets/icons/linkedin.png", "href": "https://www.linkedin.com/in/jimmypaolini", "width": 64, "height": 64 }
+  ],
+  "knowledgeSections": [
+    {
+      "title": "Programming Languages 🦜",
+      "items": [
+        { "alt": "typescript", "src": "assets/icons/typescript.png", "href": "https://www.typescriptlang.org", "width": 64, "height": 64 },
+        { "alt": "javascript", "src": "assets/icons/javascript.png", "href": "https://www.javascript.com", "width": 64, "height": 64 },
+        { "alt": "python", "src": "assets/icons/python.png", "href": "https://www.python.org", "width": 64, "height": 64 },
+        { "alt": "css", "src": "assets/icons/css.png", "href": "https://www.w3schools.com/css/default.asp", "width": 64, "height": 64 },
+        { "alt": "html", "src": "assets/icons/html.png", "href": "https://www.w3schools.com/html/default.asp", "width": 64, "height": 64 },
+        { "alt": "java", "src": "assets/icons/java.png", "href": "https://docs.oracle.com/javase/8/docs/technotes/guides/language", "width": 64, "height": 64 },
+        { "alt": "c", "src": "assets/icons/c.png", "href": "<https://en.wikipedia.org/wiki/C_(programming_language)>", "width": 64, "height": 64 },
+        { "alt": "ocaml", "src": "assets/icons/ocaml.png", "href": "https://ocaml.org", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Agent Harnesses 🤖",
+      "items": [
+        { "alt": "langchain", "src": "assets/icons/langchain.svg", "href": "https://www.langchain.com", "width": 64, "height": 64 },
+        { "alt": "langgraph", "src": "assets/icons/langgraph.svg", "href": "https://www.langchain.com/langgraph", "width": 64, "height": 64 },
+        { "alt": "langsmith", "src": "assets/icons/langsmith.svg", "href": "https://www.langchain.com/langsmith", "width": 64, "height": 64 },
+        { "alt": "ollama", "src": "assets/icons/ollama.png", "href": "https://ollama.com", "width": 64, "height": 64 },
+        { "alt": "model-context-protocol", "src": "assets/icons/model-context-protocol.svg", "href": "https://modelcontextprotocol.io/docs/getting-started/intro", "width": 64, "height": 64 },
+        { "alt": "agent-skills", "src": "assets/icons/agent-skills.svg", "href": "https://agentskills.io/home", "width": 64, "height": 64 },
+        { "alt": "trafilatura", "src": "assets/icons/trafilatura.png", "href": "https://trafilatura.readthedocs.io/en/latest", "width": 64, "height": 64 },
+        { "alt": "searxng", "src": "assets/icons/searxng.svg", "href": "https://docs.searxng.org", "width": 64, "height": 64 },
+        { "alt": "open-webui", "src": "assets/icons/open-webui.png", "href": "https://openwebui.com", "width": 64, "height": 64 },
+        { "alt": "toon", "src": "assets/icons/toon.svg", "href": "https://github.com/toon-format/toon", "width": 64, "height": 64 },
+        { "alt": "langflow", "src": "assets/icons/langflow.png", "href": "https://www.langflow.org", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Large Language Models 🦜",
+      "items": [
+        { "alt": "gemma", "src": "assets/icons/gemma.png", "href": "https://ollama.com/library/gemma4", "width": 64, "height": 64 },
+        { "alt": "qwen", "src": "assets/icons/qwen.png", "href": "https://ollama.com/library/qwen3.5", "width": 64, "height": 64 },
+        { "alt": "claude", "src": "assets/icons/claude.png", "href": "https://claude.ai", "width": 64, "height": 64 },
+        { "alt": "huggingface", "src": "assets/icons/huggingface.png", "href": "https://huggingface.co", "width": 64, "height": 64 },
+        { "alt": "gemini", "src": "assets/icons/gemini.png", "href": "https://gemini.google.com", "width": 64, "height": 64 },
+        { "alt": "openai", "src": "assets/icons/openai.png", "href": "https://openai.com", "width": 64, "height": 64 },
+        { "alt": "vertex-ai", "src": "assets/icons/vertex-ai.png", "href": "https://cloud.google.com/vertex-ai", "width": 64, "height": 64 },
+        { "alt": "github-copilot", "src": "assets/icons/github-copilot.png", "href": "https://github.com/features/copilot", "width": 64, "height": 64 },
+        { "alt": "perplexity", "src": "assets/icons/perplexity.png", "href": "https://www.perplexity.ai", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Frameworks 🖼️",
+      "items": [
+        { "alt": "tanstack", "src": "assets/icons/tanstack.png", "href": "https://tanstack.com", "width": 64, "height": 64 },
+        { "alt": "nextjs", "src": "assets/icons/nextjs.png", "href": "https://nextjs.org", "width": 64, "height": 64 },
+        { "alt": "react-router", "src": "assets/icons/react-router.png", "href": "https://reactrouter.com", "width": 64, "height": 64 },
+        { "alt": "remix", "src": "assets/icons/remix.png", "href": "https://remix.run", "width": 64, "height": 64 },
+        { "alt": "nestjs", "src": "assets/icons/nestjs.svg", "href": "https://nestjs.com", "width": 64, "height": 64 },
+        { "alt": "feathersjs", "src": "assets/icons/feathersjs.svg", "href": "https://feathersjs.com", "width": 64, "height": 64 },
+        { "alt": "jquery", "src": "assets/icons/jquery.svg", "href": "https://jquery.com", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Frontend 🎨",
+      "items": [
+        { "alt": "react", "src": "assets/icons/react.png", "href": "https://reactjs.org", "width": 64, "height": 64 },
+        { "alt": "react-query", "src": "assets/icons/react-query.png", "href": "https://react-query.tanstack.com", "width": 64, "height": 64 },
+        { "alt": "formik", "src": "assets/icons/formik.png", "href": "https://formik.org", "width": 64, "height": 64 },
+        { "alt": "ag-grid", "src": "assets/icons/ag-grid.png", "href": "https://www.ag-grid.com", "width": 64, "height": 64 },
+        { "alt": "rechart", "src": "assets/icons/rechart.png", "href": "https://github.com/recharts/recharts", "width": 64, "height": 64 },
+        { "alt": "mobx", "src": "assets/icons/mobx.png", "href": "https://mobx.js.org", "width": 64, "height": 64 },
+        { "alt": "mapbox", "src": "assets/icons/mapbox.png", "href": "https://www.mapbox.com", "width": 64, "height": 64 },
+        { "alt": "maplibre", "src": "assets/icons/maplibre.svg", "href": "https://maplibre.org", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Styles 💄",
+      "items": [
+        { "alt": "tailwind", "src": "assets/icons/tailwind.png", "href": "https://tailwindcss.com", "width": 64, "height": 64 },
+        { "alt": "shadcn", "src": "assets/icons/shadcn.png", "href": "https://ui.shadcn.com", "width": 64, "height": 64 },
+        { "alt": "lucide", "src": "assets/icons/lucide.svg", "href": "https://lucide.dev/icons", "width": 64, "height": 64 },
+        { "alt": "headlessui", "src": "assets/icons/headlessui.png", "href": "https://headlessui.com", "width": 64, "height": 64 },
+        { "alt": "materialui", "src": "assets/icons/materialui.png", "href": "https://material-ui.com", "width": 64, "height": 64 },
+        { "alt": "emotion", "src": "assets/icons/emotion.png", "href": "https://emotion.sh", "width": 64, "height": 64 },
+        { "alt": "styled-components", "src": "assets/icons/styled-components.png", "href": "https://styled-components.com", "width": 64, "height": 64 },
+        { "alt": "sass", "src": "assets/icons/sass.png", "href": "https://sass-lang.com", "width": 64, "height": 64 },
+        { "alt": "postcss", "src": "assets/icons/postcss.png", "href": "https://postcss.org", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Authentication & Authorization 🛂",
+      "items": [
+        { "alt": "jwt", "src": "assets/icons/jwt.png", "href": "https://jwt.io", "width": 64, "height": 64 },
+        { "alt": "passport", "src": "assets/icons/passport.png", "href": "https://www.passportjs.org", "width": 64, "height": 64 },
+        { "alt": "oauth", "src": "assets/icons/oauth.png", "href": "https://oauth.net", "width": 64, "height": 64 },
+        { "alt": "auth0", "src": "assets/icons/auth0.png", "href": "https://auth0.com", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Application Programming Interface (API) 📡",
+      "items": [
+        { "alt": "apollo", "src": "assets/icons/apollo.png", "href": "https://www.apollographql.com", "width": 64, "height": 64 },
+        { "alt": "type-graphql", "src": "assets/icons/type-graphql.png", "href": "https://typegraphql.com", "width": 64, "height": 64 },
+        { "alt": "graphql", "src": "assets/icons/graphql.png", "href": "https://graphql.org", "width": 64, "height": 64 },
+        { "alt": "grpc", "src": "assets/icons/grpc.png", "href": "https://grpc.io", "width": 64, "height": 64 },
+        { "alt": "protobuf", "src": "assets/icons/protobuf.png", "href": "https://developers.google.com/protocol-buffers", "width": 64, "height": 64 },
+        { "alt": "json", "src": "assets/icons/json.svg", "href": "https://www.json.org/json-en.html", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Backend 🌐",
+      "items": [
+        { "alt": "typeorm", "src": "assets/icons/typeorm.png", "href": "https://typeorm.io", "height": 64 },
+        { "alt": "expressjs", "src": "assets/icons/expressjs.png", "href": "https://expressjs.com", "width": 64, "height": 64 },
+        { "alt": "zod", "src": "assets/icons/zod.png", "href": "https://zod.dev", "width": 64 },
+        { "alt": "lodash", "src": "assets/icons/lodash.png", "href": "https://lodash.com", "width": 64 },
+        { "alt": "moment", "src": "assets/icons/moment.svg", "href": "https://momentjs.com", "width": 64 },
+        { "alt": "nest-commander", "src": "assets/icons/nest-commander.svg", "href": "https://nest-commander.jaymcdoniel.dev/en/introduction/intro", "width": 64, "height": 64 },
+        { "alt": "ink", "src": "assets/icons/ink.png", "href": "https://github.com/vadimdemedes/ink", "width": 64, "height": 64 },
+        { "alt": "prompts", "src": "assets/icons/prompts.png", "href": "https://www.npmjs.com/package/prompts", "width": 64 },
+        { "alt": "bullmq", "src": "assets/icons/bullmq.ico", "href": "https://bullmq.io", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Runtimes & Bundles 🎁",
+      "items": [
+        { "alt": "nodejs", "src": "assets/icons/nodejs.png", "href": "https://nodejs.org", "width": 64, "height": 64 },
+        { "alt": "deno", "src": "assets/icons/deno.png", "href": "https://deno.land", "width": 64, "height": 64 },
+        { "alt": "vite", "src": "assets/icons/vite.svg", "href": "https://vite.dev", "width": 64, "height": 64 },
+        { "alt": "webpack", "src": "assets/icons/webpack.png", "href": "https://webpack.js.org", "width": 64, "height": 64 },
+        { "alt": "babel", "src": "assets/icons/babel.png", "href": "https://babeljs.io", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Packages 📦",
+      "items": [
+        { "alt": "pnpm", "src": "assets/icons/pnpm.png", "href": "https://pnpm.io", "height": 64 },
+        { "alt": "yarn", "src": "assets/icons/yarn.png", "href": "https://yarnpkg.com", "width": 64, "height": 64 },
+        { "alt": "npm", "src": "assets/icons/npm.png", "href": "https://www.npmjs.com", "height": 48 },
+        { "alt": "jsr", "src": "assets/icons/jsr.png", "href": "https://jsr.io", "height": 48 }
+      ]
+    },
+    {
+      "title": "Testing 🧪",
+      "items": [
+        { "alt": "vitest", "src": "assets/icons/vitest.svg", "href": "https://vitest.dev", "width": 64, "height": 64 },
+        { "alt": "jest", "src": "assets/icons/jest.png", "href": "https://jestjs.io", "width": 64, "height": 64 },
+        { "alt": "react-testing-library", "src": "assets/icons/react-testing-library.png", "href": "https://testing-library.com/docs/react-testing-library/intro", "width": 64, "height": 64 },
+        { "alt": "fakerjs", "src": "assets/icons/fakerjs.svg", "href": "https://fakerjs.dev", "width": 64, "height": 64 },
+        { "alt": "storybook", "src": "assets/icons/storybook.png", "href": "https://storybook.js.org", "width": 64, "height": 64 },
+        { "alt": "cypress", "src": "assets/icons/cypress.png", "href": "https://www.cypress.io/how-it-works", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Quality 🧹",
+      "items": [
+        { "alt": "oxc", "src": "assets/icons/oxc.svg", "href": "https://oxc.rs/docs/guide/what-is-oxc.html", "width": 64, "height": 64 },
+        { "alt": "knip", "src": "assets/icons/knip.svg", "href": "https://knip.dev", "width": 64, "height": 64 },
+        { "alt": "biome", "src": "assets/icons/biome.svg", "href": "https://biomejs.dev", "width": 64, "height": 64 },
+        { "alt": "eslint", "src": "assets/icons/eslint.png", "href": "https://eslint.org", "width": 64, "height": 64 },
+        { "alt": "prettier", "src": "assets/icons/prettier.png", "href": "https://prettier.io", "width": 64, "height": 64 },
+        { "alt": "markdownlint", "src": "assets/icons/markdownlint.png", "href": "https://github.com/davidanson/markdownlint", "width": 64, "height": 64 },
+        { "alt": "stylelint", "src": "assets/icons/stylelint.svg", "href": "https://stylelint.io", "width": 64, "height": 64 },
+        { "alt": "sherif", "src": "assets/icons/sherif.png", "href": "https://github.com/QuiiBz/sherif", "width": 64, "height": 64 },
+        { "alt": "cspell", "src": "assets/icons/cspell.png", "href": "https://cspell.org", "width": 64, "height": 64 }
+      ],
+      "trailingContent": "<!-- yaml-lint -->\n<!-- type-coverage -->"
+    },
+    {
+      "title": "Python 🐍",
+      "items": [
+        { "alt": "django", "src": "assets/icons/django.png", "href": "https://www.djangoproject.com", "width": 64, "height": 64 },
+        { "alt": "prefect", "src": "assets/icons/prefect.svg", "href": "https://www.prefect.io", "width": 64, "height": 64 },
+        { "alt": "pydantic", "src": "assets/icons/pydantic.png", "href": "https://docs.pydantic.dev", "width": 64, "height": 64 },
+        { "alt": "pytest", "src": "assets/icons/pytest.svg", "href": "https://docs.pytest.org/en/stable", "width": 64, "height": 64 },
+        { "alt": "jupyter", "src": "assets/icons/jupyter.png", "href": "https://jupyter.org", "height": 64 },
+        { "alt": "uv", "src": "assets/icons/uv.svg", "href": "https://github.com/astral-sh/uv", "height": 64 },
+        { "alt": "ruff", "src": "assets/icons/ruff.svg", "href": "https://github.com/astral-sh/ruff", "height": 64 },
+        { "alt": "ty", "src": "assets/icons/ty.svg", "href": "https://github.com/astral-sh/ty", "height": 64 },
+        { "alt": "pyright", "src": "assets/icons/pyright.png", "href": "https://microsoft.github.io/pyright", "height": 64 }
+      ]
+    },
+    {
+      "title": "Databases 🗄️",
+      "items": [
+        { "alt": "postgres", "src": "assets/icons/postgres.png", "href": "https://www.postgresql.org", "width": 64, "height": 64 },
+        { "alt": "mysql", "src": "assets/icons/mysql.png", "href": "https://www.mysql.com", "width": 64, "height": 64 },
+        { "alt": "sqlite", "src": "assets/icons/sqlite.png", "href": "https://sqlite.org", "width": 64, "height": 64 },
+        { "alt": "mongodb", "src": "assets/icons/mongodb.png", "href": "https://www.mongodb.com", "width": 64, "height": 64 },
+        { "alt": "redis", "src": "assets/icons/redis.svg", "href": "https://redis.io", "width": 64, "height": 64 },
+        { "alt": "google-bigquery", "src": "assets/icons/google-bigquery.png", "href": "https://cloud.google.com/bigquery?hl=en", "width": 64, "height": 64 },
+        { "alt": "google-cloud-sql", "src": "assets/icons/google-cloud-sql.png", "href": "https://cloud.google.com/sql?hl=en", "width": 64, "height": 64 },
+        { "alt": "google-cloud-storage", "src": "assets/icons/google-cloud-storage.png", "href": "https://cloud.google.com/storage?hl=en", "width": 64, "height": 64 },
+        { "alt": "dynamodb", "src": "assets/icons/dynamodb.png", "href": "https://aws.amazon.com/dynamodb", "width": 64, "height": 64 },
+        { "alt": "s3", "src": "assets/icons/s3.png", "href": "https://aws.amazon.com/s3", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Infrastructure 🏗️",
+      "items": [
+        { "alt": "kubernetes", "src": "assets/icons/kubernetes.png", "href": "https://kubernetes.io", "width": 64, "height": 64 },
+        { "alt": "docker", "src": "assets/icons/docker.png", "href": "https://www.docker.com", "width": 64, "height": 64 },
+        { "alt": "helm", "src": "assets/icons/helm.png", "href": "https://helm.sh", "width": 64, "height": 64 },
+        { "alt": "terraform", "src": "assets/icons/terraform.svg", "href": "https://developer.hashicorp.com/terraform", "width": 64, "height": 64 },
+        { "alt": "nginx", "src": "assets/icons/nginx.png", "href": "https://www.nginx.com", "width": 64, "height": 64 },
+        { "alt": "github-actions", "src": "assets/icons/github-actions.png", "href": "https://github.com/features/actions", "width": 64, "height": 64 },
+        { "alt": "nx", "src": "assets/icons/nx.png", "href": "https://nx.dev", "width": 64, "height": 64 },
+        { "alt": "bitnami", "src": "assets/icons/bitnami.png", "href": "https://bitnami.com/stacks/helm", "width": 64, "height": 64 },
+        { "alt": "serverless", "src": "assets/icons/serverless.png", "href": "https://www.serverless.com", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Security 🔐",
+      "items": [
+        { "alt": "gitguardian", "src": "assets/icons/gitguardian.png", "href": "https://www.gitguardian.com", "width": 64, "height": 64 },
+        { "alt": "trivy", "src": "assets/icons/trivy.png", "href": "https://trivy.dev", "width": 64, "height": 64 },
+        { "alt": "bandit", "src": "assets/icons/bandit.png", "href": "https://github.com/PyCQA/bandit", "width": 64, "height": 64 },
+        { "alt": "syncpack", "src": "assets/icons/syncpack.svg", "href": "https://syncpack.dev", "height": 64 },
+        { "alt": "gitleaks", "src": "assets/icons/gitleaks.png", "href": "https://github.com/gitleaks/gitleaks", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Observability 👁️",
+      "items": [
+        { "alt": "datadog", "src": "assets/icons/datadog.svg", "href": "https://www.datadoghq.com", "width": 64, "height": 64 },
+        { "alt": "launchdarkly", "src": "assets/icons/launchdarkly.svg", "href": "https://launchdarkly.com", "width": 64, "height": 64 },
+        { "alt": "elk", "src": "assets/icons/elk.png", "href": "https://www.elastic.co", "width": 64, "height": 64 },
+        { "alt": "fluentbit", "src": "assets/icons/fluentbit.png", "href": "https://fluentbit.io", "width": 64, "height": 64 },
+        { "alt": "prometheus", "src": "assets/icons/prometheus.png", "href": "https://prometheus.io", "width": 64, "height": 64 },
+        { "alt": "grafana", "src": "assets/icons/grafana.png", "href": "https://grafana.com", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Providers ☁️",
+      "items": [
+        { "alt": "supabase", "src": "assets/icons/supabase.png", "href": "https://supabase.com", "width": 64, "height": 64 },
+        { "alt": "google-cloud-platform", "src": "assets/icons/google-cloud-platform.png", "href": "https://cloud.google.com", "width": 64, "height": 64 },
+        { "alt": "aws", "src": "assets/icons/aws.png", "href": "https://aws.amazon.com", "width": 64, "height": 64 },
+        { "alt": "cloudflare", "src": "assets/icons/cloudflare.png", "href": "https://www.cloudflare.com", "width": 64, "height": 64 },
+        { "alt": "linode", "src": "assets/icons/linode.png", "href": "https://www.linode.com", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Shells 🐚",
+      "items": [
+        { "alt": "zsh", "src": "assets/icons/zsh.png", "href": "https://www.zsh.org", "width": 64, "height": 64 },
+        { "alt": "bash", "src": "assets/icons/bash.png", "href": "https://www.gnu.org/software/bash", "width": 64, "height": 64 },
+        { "alt": "fish", "src": "assets/icons/fish.png", "href": "https://fishshell.com", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Tools 🛠️",
+      "items": [
+        { "alt": "git", "src": "assets/icons/git.png", "href": "https://git-scm.com", "width": 64, "height": 64 },
+        { "alt": "homebrew", "src": "assets/icons/homebrew.png", "href": "https://brew.sh", "width": 64, "height": 64 },
+        { "alt": "semantic-release", "src": "assets/icons/semantic-release.png", "href": "https://github.com/semantic-release/semantic-release", "width": 64, "height": 64 },
+        { "alt": "conventional-commits", "src": "assets/icons/conventional-commits.png", "href": "https://www.conventionalcommits.org/en/v1.0.0", "width": 64, "height": 64 },
+        { "alt": "commitlint", "src": "assets/icons/commitlint.png", "href": "https://commitlint.js.org", "width": 64, "height": 64 },
+        { "alt": "husky", "src": "assets/icons/husky.png", "href": "https://typicode.github.io/husky", "width": 64, "height": 64 },
+        { "alt": "lint-staged", "src": "assets/icons/lint-staged.png", "href": "https://github.com/lint-staged/lint-staged", "width": 64, "height": 64 },
+        { "alt": "regex", "src": "assets/icons/regex.png", "href": "https://regexr.com", "width": 64, "height": 64 },
+        { "alt": "stringcase", "src": "assets/icons/stringcase.svg", "href": "https://stringcase.org/cases", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Services 🤲",
+      "items": [
+        { "alt": "github", "src": "assets/icons/github.png", "href": "https://github.com/JimmyPaolini/Lexico", "width": 64, "height": 64 },
+        { "alt": "wikipedia", "src": "assets/icons/wikipedia.png", "href": "https://www.wikipedia.org/", "width": 64, "height": 64 },
+        { "alt": "stackoverflow", "src": "assets/icons/stackoverflow.png", "href": "https://stackoverflow.com", "width": 64, "height": 64 },
+        { "alt": "loom", "src": "assets/icons/loom.svg", "href": "https://www.loom.com", "width": 64, "height": 64 },
+        { "alt": "slack", "src": "assets/icons/slack.png", "href": "https://slack.com", "width": 64, "height": 64 },
+        { "alt": "jira", "src": "assets/icons/jira.svg", "href": "https://www.atlassian.com/software/jira", "width": 64, "height": 64 },
+        { "alt": "confluence", "src": "assets/icons/confluence.svg", "href": "https://www.atlassian.com/software/confluence", "width": 64, "height": 64 },
+        { "alt": "atlassian", "src": "assets/icons/atlassian.svg", "href": "https://www.atlassian.com", "width": 64, "height": 64 },
+        { "alt": "sendgrid", "src": "assets/icons/sendgrid.png", "href": "https://sendgrid.com", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "title": "Applications 🎪",
+      "items": [
+        { "alt": "vscode", "src": "assets/icons/vscode.png", "href": "https://code.visualstudio.com", "width": 64, "height": 64 },
+        { "alt": "figma", "src": "assets/icons/figma.png", "href": "https://www.figma.com", "width": 64, "height": 64 },
+        { "alt": "raycast", "src": "assets/icons/raycast.png", "href": "https://www.raycast.com", "width": 64, "height": 64 },
+        { "alt": "stats", "src": "assets/icons/stats.png", "href": "https://mac-stats.com/", "width": 64, "height": 64 },
+        { "alt": "notion", "src": "assets/icons/notion.png", "href": "https://www.notion.so", "width": 64, "height": 64 },
+        { "alt": "postman", "src": "assets/icons/postman.png", "href": "https://www.postman.com", "width": 64, "height": 64 },
+        { "alt": "linear", "src": "assets/icons/linear.svg", "href": "https://linear.app", "width": 64, "height": 64 },
+        { "alt": "terminal", "src": "assets/icons/terminal.png", "href": "https://support.apple.com/guide/terminal/welcome/mac", "width": 64, "height": 64 },
+        { "alt": "dbeaver", "src": "assets/icons/dbeaver.png", "href": "https://dbeaver.io", "width": 64, "height": 64 },
+        { "alt": "mysql-workbench", "src": "assets/icons/mysql-workbench.png", "href": "https://www.mysql.com/products/workbench", "width": 64, "height": 64 },
+        { "alt": "intellij", "src": "assets/icons/intellij.png", "href": "https://www.jetbrains.com/idea", "width": 64, "height": 64 },
+        { "alt": "musescore", "src": "assets/icons/musescore.svg", "href": "https://musescore.org", "width": 64, "height": 64 },
+        { "alt": "finale", "src": "assets/icons/finale.png", "href": "https://www.finalemusic.com", "width": 64, "height": 64 }
+      ]
+    }
+  ],
+  "learnGroups": [
+    {
+      "items": [
+        { "alt": "sentence-transformers", "src": "assets/icons/sentence-transformers.png", "href": "https://sbert.net", "width": 64, "height": 64 },
+        { "alt": "fallow", "src": "assets/icons/fallow.svg", "href": "https://docs.fallow.tools", "width": 64, "height": 64 },
+        { "alt": "react-native", "src": "assets/icons/react-native.png", "href": "https://reactnative.dev", "height": 64 },
+        { "alt": "expo", "src": "assets/icons/expo.svg", "href": "https://expo.dev", "width": 64, "height": 64 },
+        { "alt": "fastapi", "src": "assets/icons/fastapi.webp", "href": "https://fastapi.tiangolo.com", "width": 64, "height": 64 },
+        { "alt": "pandas", "src": "assets/icons/pandas.png", "href": "https://pandas.pydata.org", "width": 64, "height": 64 },
+        { "alt": "playwright", "src": "assets/icons/playwright.svg", "href": "https://playwright.dev", "width": 64, "height": 64 },
+        { "alt": "rxjs", "src": "assets/icons/rxjs.png", "href": "https://rxjs.dev", "width": 64, "height": 64 }
+      ],
+      "trailingContent": "<!-- [<img width=\"64\" height=\"64\" alt=\"poetry\" src=\"assets/icons/poetry.png\">](https://python-poetry.org) -->"
+    },
+    {
+      "items": [
+        { "alt": "minikube", "src": "assets/icons/minikube.svg", "href": "https://minikube.sigs.k8s.io/docs", "width": 64, "height": 64 },
+        { "alt": "terraform-docs", "src": "assets/icons/terraform-docs.png", "href": "https://terraform-docs.io", "height": 64 },
+        { "alt": "electron", "src": "assets/icons/electron.png", "href": "https://www.electronjs.org", "width": 64, "height": 64 },
+        { "alt": "fastify", "src": "assets/icons/fastify.png", "href": "https://www.fastify.io", "width": 64, "height": 64 },
+        { "alt": "linux", "src": "assets/icons/linux.png", "href": "https://www.linux.org", "width": 64, "height": 64 },
+        { "alt": "gnu", "src": "assets/icons/gnu.png", "href": "https://www.gnu.org/home.en.html", "width": 64, "height": 64 },
+        { "alt": "raspberrypi", "src": "assets/icons/raspberrypi.png", "href": "https://www.raspberrypi.org", "width": 64, "height": 64 }
+      ]
+    },
+    {
+      "items": [
+        { "alt": "openapi", "src": "assets/icons/openapi.png", "href": "https://www.openapis.org", "width": 64, "height": 64 },
+        { "alt": "stripe", "src": "assets/icons/stripe.png", "href": "https://stripe.com", "width": 64, "height": 64 },
+        { "alt": "shopify", "src": "assets/icons/shopify.png", "href": "https://www.shopify.com", "width": 64, "height": 64 },
+        { "alt": "azure", "src": "assets/icons/azure.png", "href": "https://azure.microsoft.com/en-us", "width": 64, "height": 64 }
+      ]
+    }
+  ]
+}

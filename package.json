@@ -3,5 +3,8 @@
   "description": "Jimmy Paolini portfolio repository",
   "version": "0.0.0",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "scripts": {
+    "generate": "npm run generate --prefix tools/code-generator"
+  }
 }
