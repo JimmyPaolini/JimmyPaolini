@@ -25,9 +25,7 @@
 
 ### Agent Harnesses 🤖
 
-[<img width="64" height="64" alt="langchain" src="assets/icons/langchain.svg">](https://www.langchain.com)
-[<img width="64" height="64" alt="langgraph" src="assets/icons/langgraph.svg">](https://www.langchain.com/langgraph)
-[<img width="64" height="64" alt="langsmith" src="assets/icons/langsmith.svg">](https://www.langchain.com/langsmith)
+[<img width="64" height="64" alt="langchain" src="assets/icons/langchain.png">](https://www.langchain.com)
 [<img width="64" height="64" alt="ollama" src="assets/icons/ollama.png">](https://ollama.com)
 [<img width="64" height="64" alt="model-context-protocol" src="assets/icons/model-context-protocol.svg">](https://modelcontextprotocol.io/docs/getting-started/intro)
 [<img width="64" height="64" alt="agent-skills" src="assets/icons/agent-skills.svg">](https://agentskills.io/home)
@@ -49,7 +47,7 @@
 [<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="perplexity" src="assets/icons/perplexity.png">](https://www.perplexity.ai)
 
-### Frameworks 🖼️
+### Frameworks 🖼
 
 [<img width="64" height="64" alt="tanstack" src="assets/icons/tanstack.png">](https://tanstack.com)
 [<img width="64" height="64" alt="nextjs" src="assets/icons/nextjs.png">](https://nextjs.org)
@@ -105,6 +103,7 @@
 [<img width="64" alt="zod" src="assets/icons/zod.png">](https://zod.dev)
 [<img width="64" alt="lodash" src="assets/icons/lodash.png">](https://lodash.com)
 [<img width="64" alt="moment" src="assets/icons/moment.svg">](https://momentjs.com)
+[<img width="64" alt="pino" src="assets/icons/pino.png">](https://github.com/pinojs/pino)
 [<img width="64" height="64" alt="nest-commander" src="assets/icons/nest-commander.svg">](https://nest-commander.jaymcdoniel.dev/en/introduction/intro)
 [<img width="64" height="64" alt="ink" src="assets/icons/ink.png">](https://github.com/vadimdemedes/ink)
 [<img width="64" alt="prompts" src="assets/icons/prompts.png">](https://www.npmjs.com/package/prompts)
@@ -140,6 +139,7 @@
 [<img width="64" height="64" alt="knip" src="assets/icons/knip.svg">](https://knip.dev)
 [<img width="64" height="64" alt="biome" src="assets/icons/biome.svg">](https://biomejs.dev)
 [<img width="64" height="64" alt="eslint" src="assets/icons/eslint.png">](https://eslint.org)
+[<img width="64" height="64" alt="eslint-perfectionist" src="assets/icons/eslint-perfectionist.png">](https://perfectionist.dev)
 [<img width="64" height="64" alt="prettier" src="assets/icons/prettier.png">](https://prettier.io)
 [<img width="64" height="64" alt="markdownlint" src="assets/icons/markdownlint.png">](https://github.com/davidanson/markdownlint)
 [<img width="64" height="64" alt="stylelint" src="assets/icons/stylelint.svg">](https://stylelint.io)
@@ -160,7 +160,7 @@
 [<img height="64" alt="ty" src="assets/icons/ty.svg">](https://github.com/astral-sh/ty)
 [<img height="64" alt="pyright" src="assets/icons/pyright.png">](https://microsoft.github.io/pyright)
 
-### Databases 🗄️
+### Databases 🗄
 
 [<img width="64" height="64" alt="postgres" src="assets/icons/postgres.png">](https://www.postgresql.org)
 [<img width="64" height="64" alt="mysql" src="assets/icons/mysql.png">](https://www.mysql.com)
@@ -173,7 +173,7 @@
 [<img width="64" height="64" alt="dynamodb" src="assets/icons/dynamodb.png">](https://aws.amazon.com/dynamodb)
 [<img width="64" height="64" alt="s3" src="assets/icons/s3.png">](https://aws.amazon.com/s3)
 
-### Infrastructure 🏗️
+### Infrastructure 🏗
 
 [<img width="64" height="64" alt="kubernetes" src="assets/icons/kubernetes.png">](https://kubernetes.io)
 [<img width="64" height="64" alt="docker" src="assets/icons/docker.png">](https://www.docker.com)
@@ -193,7 +193,7 @@
 [<img height="64" alt="syncpack" src="assets/icons/syncpack.svg">](https://syncpack.dev)
 [<img width="64" height="64" alt="gitleaks" src="assets/icons/gitleaks.png">](https://github.com/gitleaks/gitleaks)
 
-### Observability 👁️
+### Observability 👁
 
 [<img width="64" height="64" alt="datadog" src="assets/icons/datadog.svg">](https://www.datadoghq.com)
 [<img width="64" height="64" alt="launchdarkly" src="assets/icons/launchdarkly.svg">](https://launchdarkly.com)
@@ -216,7 +216,7 @@
 [<img width="64" height="64" alt="bash" src="assets/icons/bash.png">](https://www.zsh.org)
 [<img width="64" height="64" alt="fish" src="assets/icons/fish.png">](https://fishshell.com)
 
-### Tools 🛠️
+### Tools 🛠
 
 [<img width="64" height="64" alt="git" src="assets/icons/git.png">](https://git-scm.com)
 [<img width="64" height="64" alt="homebrew" src="assets/icons/homebrew.png">](https://brew.sh)
