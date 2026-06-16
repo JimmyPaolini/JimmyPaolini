@@ -3,7 +3,7 @@
   "projectType": "application",
   "root": "applications/JimmyPaolini",
   "sourceRoot": "applications/JimmyPaolini/src",
-  "tags": [],
+  "tags": ["type:application"],
   "targets": {
     "build": {
       "executor": "nx:run-commands",
