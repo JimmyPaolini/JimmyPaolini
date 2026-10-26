@@ -34,6 +34,7 @@
 [<img width="64" height="64" alt="open-webui" src="assets/icons/open-webui.png">](https://openwebui.com)
 [<img width="64" height="64" alt="toon" src="assets/icons/toon.svg">](https://github.com/toon-format/toon)
 [<img width="64" height="64" alt="langflow" src="assets/icons/langflow.png">](https://www.langflow.org)
+[<img width="64" height="64" alt="claude-code" src="assets/icons/claude-code.svg">](https://claude.com/claude-code)
 
 ### Large Language Models 🦜
 
@@ -65,6 +66,8 @@
 [<img width="64" height="64" alt="formik" src="assets/icons/formik.png">](https://formik.org)
 [<img width="64" height="64" alt="ag-grid" src="assets/icons/ag-grid.png">](https://www.ag-grid.com)
 [<img width="64" height="64" alt="rechart" src="assets/icons/rechart.png">](https://github.com/recharts/recharts)
+[<img width="64" height="64" alt="dnd-kit" src="assets/icons/dnd-kit.png">](https://dndkit.com)
+[<img width="64" height="64" alt="shiki" src="assets/icons/shiki.svg">](https://shiki.style)
 [<img width="64" height="64" alt="mobx" src="assets/icons/mobx.png">](https://mobx.js.org)
 [<img width="64" height="64" alt="mapbox" src="assets/icons/mapbox.png">](https://www.mapbox.com)
 [<img width="64" height="64" alt="maplibre" src="assets/icons/maplibre.svg">](https://maplibre.org)
@@ -120,6 +123,7 @@
 [<img width="64" height="64" alt="vite" src="assets/icons/vite.svg">](https://vite.dev)
 [<img width="64" height="64" alt="webpack" src="assets/icons/webpack.png">](https://webpack.js.org)
 [<img width="64" height="64" alt="babel" src="assets/icons/babel.png">](https://babeljs.io)
+[<img width="64" height="64" alt="v8" src="assets/icons/v8.svg">](https://v8.dev)
 [<img width="64" height="64" alt="swc" src="assets/icons/swc.svg">](https://swc.rs)
 
 ### Packages 📦
@@ -136,6 +140,9 @@
 [<img width="64" height="64" alt="jest" src="assets/icons/jest.png">](https://jestjs.io)
 [<img width="64" height="64" alt="react-testing-library" src="assets/icons/react-testing-library.png">](https://testing-library.com/docs/react-testing-library/intro)
 [<img width="64" height="64" alt="fakerjs" src="assets/icons/fakerjs.svg">](https://fakerjs.dev)
+[<img width="64" height="64" alt="msw" src="assets/icons/msw.svg">](https://mswjs.io)
+[<img width="64" height="64" alt="jsdom" src="assets/icons/jsdom.svg">](https://github.com/jsdom/jsdom)
+[<img width="64" height="64" alt="testcontainers" src="assets/icons/testcontainers.png">](https://testcontainers.com)
 [<img width="64" height="64" alt="storybook" src="assets/icons/storybook.png">](https://storybook.js.org)
 [<img width="64" height="64" alt="cypress" src="assets/icons/cypress.png">](https://www.cypress.io/how-it-works)
 
@@ -151,7 +158,10 @@
 [<img width="64" height="64" alt="stylelint" src="assets/icons/stylelint.svg">](https://stylelint.io)
 [<img width="64" height="64" alt="sherif" src="assets/icons/sherif.png">](https://github.com/QuiiBz/sherif)
 [<img width="64" height="64" alt="cspell" src="assets/icons/cspell.png">](https://cspell.org)
-<!-- yaml-lint -->
+[<img width="64" height="64" alt="jscpd" src="assets/icons/jscpd.svg">](https://github.com/kucherenko/jscpd)
+[<img width="64" height="64" alt="shellcheck" src="assets/icons/shellcheck.svg">](https://www.shellcheck.net)
+[<img width="64" height="64" alt="sqlfluff" src="assets/icons/sqlfluff.png">](https://sqlfluff.com)
+[<img width="64" height="64" alt="yamllint" src="assets/icons/yamllint.svg">](https://yamllint.readthedocs.io)
 <!-- type-coverage -->
 
 ### Python 🐍
@@ -165,6 +175,7 @@
 [<img height="64" alt="ruff" src="assets/icons/ruff.svg">](https://github.com/astral-sh/ruff)
 [<img height="64" alt="ty" src="assets/icons/ty.svg">](https://github.com/astral-sh/ty)
 [<img height="64" alt="pyright" src="assets/icons/pyright.png">](https://microsoft.github.io/pyright)
+[<img width="64" height="64" alt="tornado" src="assets/icons/tornado.png">](https://www.tornadoweb.org)
 
 ### Databases 🗄
 
