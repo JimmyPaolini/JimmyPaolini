@@ -46,6 +46,7 @@
 [<img width="64" height="64" alt="vertex-ai" src="assets/icons/vertex-ai.png">](https://cloud.google.com/vertex-ai)
 [<img width="64" height="64" alt="github-copilot" src="assets/icons/github-copilot.png">](https://github.com/features/copilot)
 [<img width="64" height="64" alt="perplexity" src="assets/icons/perplexity.png">](https://www.perplexity.ai)
+[<img width="64" height="64" alt="openrouter" src="assets/icons/openrouter.svg">](https://openrouter.ai)
 
 ### Frameworks 🖼
 
@@ -92,6 +93,7 @@
 [<img width="64" height="64" alt="apollo" src="assets/icons/apollo.png">](https://www.apollographql.com)
 [<img width="64" height="64" alt="type-graphql" src="assets/icons/type-graphql.png">](https://typegraphql.com)
 [<img width="64" height="64" alt="graphql" src="assets/icons/graphql.png">](https://graphql.org)
+[<img width="64" height="64" alt="graphql-codegen" src="assets/icons/graphql-codegen.png">](https://the-guild.dev/graphql/codegen)
 [<img width="64" height="64" alt="grpc" src="assets/icons/grpc.png">](https://grpc.io)
 [<img width="64" height="64" alt="protobuf" src="assets/icons/protobuf.png">](https://developers.google.com/protocol-buffers)
 [<img width="64" height="64" alt="json" src="assets/icons/json.svg">](https://www.json.org/json-en.html)
@@ -103,6 +105,8 @@
 [<img width="64" alt="zod" src="assets/icons/zod.png">](https://zod.dev)
 [<img width="64" alt="lodash" src="assets/icons/lodash.png">](https://lodash.com)
 [<img width="64" alt="moment" src="assets/icons/moment.svg">](https://momentjs.com)
+[<img width="64" height="64" alt="date-fns" src="assets/icons/date-fns.svg">](https://date-fns.org)
+[<img width="64" height="64" alt="cheerio" src="assets/icons/cheerio.svg">](https://cheerio.js.org)
 [<img width="64" alt="pino" src="assets/icons/pino.png">](https://github.com/pinojs/pino)
 [<img width="64" height="64" alt="nest-commander" src="assets/icons/nest-commander.svg">](https://nest-commander.jaymcdoniel.dev/en/introduction/intro)
 [<img width="64" height="64" alt="ink" src="assets/icons/ink.png">](https://github.com/vadimdemedes/ink)
@@ -116,6 +120,7 @@
 [<img width="64" height="64" alt="vite" src="assets/icons/vite.svg">](https://vite.dev)
 [<img width="64" height="64" alt="webpack" src="assets/icons/webpack.png">](https://webpack.js.org)
 [<img width="64" height="64" alt="babel" src="assets/icons/babel.png">](https://babeljs.io)
+[<img width="64" height="64" alt="swc" src="assets/icons/swc.svg">](https://swc.rs)
 
 ### Packages 📦
 
@@ -123,6 +128,7 @@
 [<img width="64" height="64" alt="yarn" src="assets/icons/yarn.png">](https://yarnpkg.com)
 [<img height="48" alt="npm" src="assets/icons/npm.png">](https://www.npmjs.com)
 [<img height="48" alt="jsr" src="assets/icons/jsr.png">](https://jsr.io)
+[<img width="64" height="64" alt="verdaccio" src="assets/icons/verdaccio.svg">](https://verdaccio.org)
 
 ### Testing 🧪
 
@@ -225,6 +231,8 @@
 [<img width="64" height="64" alt="commitlint" src="assets/icons/commitlint.png">](https://commitlint.js.org)
 [<img width="64" height="64" alt="husky" src="assets/icons/husky.png">](https://typicode.github.io/husky)
 [<img width="64" height="64" alt="lint-staged" src="assets/icons/lint-staged.png">](https://github.com/lint-staged/lint-staged)
+[<img width="64" height="64" alt="dependabot" src="assets/icons/dependabot.svg">](https://docs.github.com/en/code-security/dependabot)
+[<img width="64" height="64" alt="mermaid" src="assets/icons/mermaid.svg">](https://mermaid.js.org)
 [<img width="64" height="64" alt="regex" src="assets/icons/regex.png">](https://regexr.com)
 [<img width="64" height="64" alt="stringcase" src="assets/icons/stringcase.svg">](https://stringcase.org/cases)
 
